@@ -1,7 +1,7 @@
 # **PKGF: 決定論的および非決定論的情報記憶のための統一幾何学フレームワーク**
 **知性のための普遍적構造記憶としての並行鍵幾何流**
 
-**著者:** 宮田 史生 (Fumio Miyata)  
+**著者:** Fumio Miyata
 **日付:** 2026年4月8日  
 **DOI:** [10.5281/zenodo.19477743](https://doi.org/10.5281/zenodo.19477743)  
 **リポジトリ:** [https://github.com/aikenkyu001/PKGF_nature_analysis](https://github.com/aikenkyu001/PKGF_nature_analysis)  
