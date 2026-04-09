@@ -1,0 +1,1247 @@
+{
+    "metadata": {
+        "source": "geyser_raw.csv",
+        "total_samples": 300,
+        "headers": [
+            "Sequence",
+            "Waiting_Time"
+        ]
+    },
+    "structure": {
+        "primitive_id": 200,
+        "data_quanta": [
+            {
+                "Sequence": 0,
+                "Waiting_Time": 90.6592971356611
+            },
+            {
+                "Sequence": 1,
+                "Waiting_Time": 55.38716743930195
+            },
+            {
+                "Sequence": 2,
+                "Waiting_Time": 74.66037925204807
+            },
+            {
+                "Sequence": 3,
+                "Waiting_Time": 79.32489745130592
+            },
+            {
+                "Sequence": 4,
+                "Waiting_Time": 54.70568421180605
+            },
+            {
+                "Sequence": 5,
+                "Waiting_Time": 58.15990504293784
+            },
+            {
+                "Sequence": 6,
+                "Waiting_Time": 78.73774594100126
+            },
+            {
+                "Sequence": 7,
+                "Waiting_Time": 82.70082250891227
+            },
+            {
+                "Sequence": 8,
+                "Waiting_Time": 51.227663141257025
+            },
+            {
+                "Sequence": 9,
+                "Waiting_Time": 54.36677267157327
+            },
+            {
+                "Sequence": 10,
+                "Waiting_Time": 77.95776220040325
+            },
+            {
+                "Sequence": 11,
+                "Waiting_Time": 69.70471626418983
+            },
+            {
+                "Sequence": 12,
+                "Waiting_Time": 83.825854900083
+            },
+            {
+                "Sequence": 13,
+                "Waiting_Time": 47.749266204788384
+            },
+            {
+                "Sequence": 14,
+                "Waiting_Time": 81.8260270208336
+            },
+            {
+                "Sequence": 15,
+                "Waiting_Time": 83.18912399693318
+            },
+            {
+                "Sequence": 16,
+                "Waiting_Time": 52.65267479480603
+            },
+            {
+                "Sequence": 17,
+                "Waiting_Time": 81.10635521969249
+            },
+            {
+                "Sequence": 18,
+                "Waiting_Time": 76.72293808509168
+            },
+            {
+                "Sequence": 19,
+                "Waiting_Time": 83.56950973325485
+            },
+            {
+                "Sequence": 20,
+                "Waiting_Time": 44.26161887667412
+            },
+            {
+                "Sequence": 21,
+                "Waiting_Time": 82.5697679636706
+            },
+            {
+                "Sequence": 22,
+                "Waiting_Time": 44.57012041728318
+            },
+            {
+                "Sequence": 23,
+                "Waiting_Time": 78.47216284281875
+            },
+            {
+                "Sequence": 24,
+                "Waiting_Time": 49.7523548942889
+            },
+            {
+                "Sequence": 25,
+                "Waiting_Time": 45.65402863898625
+            },
+            {
+                "Sequence": 26,
+                "Waiting_Time": 79.83935285510206
+            },
+            {
+                "Sequence": 27,
+                "Waiting_Time": 53.0763102654876
+            },
+            {
+                "Sequence": 28,
+                "Waiting_Time": 74.42142559706984
+            },
+            {
+                "Sequence": 29,
+                "Waiting_Time": 83.47320540980412
+            },
+            {
+                "Sequence": 30,
+                "Waiting_Time": 49.29754324208791
+            },
+            {
+                "Sequence": 31,
+                "Waiting_Time": 85.614178925186
+            },
+            {
+                "Sequence": 32,
+                "Waiting_Time": 82.75582430664706
+            },
+            {
+                "Sequence": 33,
+                "Waiting_Time": 52.50354636308084
+            },
+            {
+                "Sequence": 34,
+                "Waiting_Time": 82.58981556817817
+            },
+            {
+                "Sequence": 35,
+                "Waiting_Time": 48.92890799941361
+            },
+            {
+                "Sequence": 36,
+                "Waiting_Time": 80.6470811656871
+            },
+            {
+                "Sequence": 37,
+                "Waiting_Time": 44.292706174521975
+            },
+            {
+                "Sequence": 38,
+                "Waiting_Time": 81.04829285436345
+            },
+            {
+                "Sequence": 39,
+                "Waiting_Time": 53.793313724059026
+            },
+            {
+                "Sequence": 40,
+                "Waiting_Time": 79.76820970140703
+            },
+            {
+                "Sequence": 41,
+                "Waiting_Time": 54.16091923737192
+            },
+            {
+                "Sequence": 42,
+                "Waiting_Time": 74.99366723211868
+            },
+            {
+                "Sequence": 43,
+                "Waiting_Time": 76.47666165340112
+            },
+            {
+                "Sequence": 44,
+                "Waiting_Time": 55.14622698338853
+            },
+            {
+                "Sequence": 45,
+                "Waiting_Time": 78.44899447788642
+            },
+            {
+                "Sequence": 46,
+                "Waiting_Time": 54.89175988794596
+            },
+            {
+                "Sequence": 47,
+                "Waiting_Time": 81.35694943926408
+            },
+            {
+                "Sequence": 48,
+                "Waiting_Time": 54.12745969091297
+            },
+            {
+                "Sequence": 49,
+                "Waiting_Time": 78.13359343238747
+            },
+            {
+                "Sequence": 50,
+                "Waiting_Time": 62.33752267450363
+            },
+            {
+                "Sequence": 51,
+                "Waiting_Time": 82.47373495023277
+            },
+            {
+                "Sequence": 52,
+                "Waiting_Time": 44.87118082865608
+            },
+            {
+                "Sequence": 53,
+                "Waiting_Time": 82.13442277096914
+            },
+            {
+                "Sequence": 54,
+                "Waiting_Time": 52.11166486020931
+            },
+            {
+                "Sequence": 55,
+                "Waiting_Time": 76.09661799653911
+            },
+            {
+                "Sequence": 56,
+                "Waiting_Time": 46.33307937252389
+            },
+            {
+                "Sequence": 57,
+                "Waiting_Time": 71.37032120914199
+            },
+            {
+                "Sequence": 58,
+                "Waiting_Time": 42.80711094379319
+            },
+            {
+                "Sequence": 59,
+                "Waiting_Time": 80.60922053284212
+            },
+            {
+                "Sequence": 60,
+                "Waiting_Time": 56.31783611212216
+            },
+            {
+                "Sequence": 61,
+                "Waiting_Time": 80.45545989281547
+            },
+            {
+                "Sequence": 62,
+                "Waiting_Time": 39.29568240531003
+            },
+            {
+                "Sequence": 63,
+                "Waiting_Time": 77.50127307222411
+            },
+            {
+                "Sequence": 64,
+                "Waiting_Time": 48.06074392630226
+            },
+            {
+                "Sequence": 65,
+                "Waiting_Time": 54.79174869660742
+            },
+            {
+                "Sequence": 66,
+                "Waiting_Time": 74.71279303786949
+            },
+            {
+                "Sequence": 67,
+                "Waiting_Time": 57.18285659116975
+            },
+            {
+                "Sequence": 68,
+                "Waiting_Time": 49.90330023820959
+            },
+            {
+                "Sequence": 69,
+                "Waiting_Time": 77.46227484398847
+            },
+            {
+                "Sequence": 70,
+                "Waiting_Time": 77.14053096643262
+            },
+            {
+                "Sequence": 71,
+                "Waiting_Time": 46.09103851760418
+            },
+            {
+                "Sequence": 72,
+                "Waiting_Time": 79.65196968607911
+            },
+            {
+                "Sequence": 73,
+                "Waiting_Time": 80.94327525296141
+            },
+            {
+                "Sequence": 74,
+                "Waiting_Time": 80.54839015405322
+            },
+            {
+                "Sequence": 75,
+                "Waiting_Time": 59.157761774966886
+            },
+            {
+                "Sequence": 76,
+                "Waiting_Time": 74.37927296028258
+            },
+            {
+                "Sequence": 77,
+                "Waiting_Time": 50.87047261982937
+            },
+            {
+                "Sequence": 78,
+                "Waiting_Time": 83.09451175206588
+            },
+            {
+                "Sequence": 79,
+                "Waiting_Time": 82.8595487685599
+            },
+            {
+                "Sequence": 80,
+                "Waiting_Time": 82.78456020165657
+            },
+            {
+                "Sequence": 81,
+                "Waiting_Time": 60.82180670033651
+            },
+            {
+                "Sequence": 82,
+                "Waiting_Time": 55.051790611489245
+            },
+            {
+                "Sequence": 83,
+                "Waiting_Time": 83.8291985304897
+            },
+            {
+                "Sequence": 84,
+                "Waiting_Time": 80.80225883430758
+            },
+            {
+                "Sequence": 85,
+                "Waiting_Time": 53.64390773637085
+            },
+            {
+                "Sequence": 86,
+                "Waiting_Time": 85.89103149527969
+            },
+            {
+                "Sequence": 87,
+                "Waiting_Time": 49.6730198515146
+            },
+            {
+                "Sequence": 88,
+                "Waiting_Time": 81.69872238355698
+            },
+            {
+                "Sequence": 89,
+                "Waiting_Time": 55.487198119660185
+            },
+            {
+                "Sequence": 90,
+                "Waiting_Time": 74.12787594724044
+            },
+            {
+                "Sequence": 91,
+                "Waiting_Time": 52.49832031168071
+            },
+            {
+                "Sequence": 92,
+                "Waiting_Time": 47.077248507394536
+            },
+            {
+                "Sequence": 93,
+                "Waiting_Time": 79.49530913552314
+            },
+            {
+                "Sequence": 94,
+                "Waiting_Time": 80.08703023781656
+            },
+            {
+                "Sequence": 95,
+                "Waiting_Time": 41.62731417545923
+            },
+            {
+                "Sequence": 96,
+                "Waiting_Time": 85.0702628917162
+            },
+            {
+                "Sequence": 97,
+                "Waiting_Time": 47.50955290636425
+            },
+            {
+                "Sequence": 98,
+                "Waiting_Time": 53.894401576365595
+            },
+            {
+                "Sequence": 99,
+                "Waiting_Time": 67.19055024593597
+            },
+            {
+                "Sequence": 100,
+                "Waiting_Time": 76.82060313362517
+            },
+            {
+                "Sequence": 101,
+                "Waiting_Time": 42.468733713405754
+            },
+            {
+                "Sequence": 102,
+                "Waiting_Time": 81.83703318072463
+            },
+            {
+                "Sequence": 103,
+                "Waiting_Time": 79.72982929578949
+            },
+            {
+                "Sequence": 104,
+                "Waiting_Time": 53.17313203601053
+            },
+            {
+                "Sequence": 105,
+                "Waiting_Time": 84.2938766550033
+            },
+            {
+                "Sequence": 106,
+                "Waiting_Time": 52.50553947283359
+            },
+            {
+                "Sequence": 107,
+                "Waiting_Time": 76.34671931183533
+            },
+            {
+                "Sequence": 108,
+                "Waiting_Time": 50.79475097403809
+            },
+            {
+                "Sequence": 109,
+                "Waiting_Time": 81.56227037628649
+            },
+            {
+                "Sequence": 110,
+                "Waiting_Time": 50.469017673349626
+            },
+            {
+                "Sequence": 111,
+                "Waiting_Time": 87.84274619446087
+            },
+            {
+                "Sequence": 112,
+                "Waiting_Time": 53.04280290798141
+            },
+            {
+                "Sequence": 113,
+                "Waiting_Time": 79.7799725000948
+            },
+            {
+                "Sequence": 114,
+                "Waiting_Time": 81.28796946350967
+            },
+            {
+                "Sequence": 115,
+                "Waiting_Time": 58.30796661848511
+            },
+            {
+                "Sequence": 116,
+                "Waiting_Time": 75.87694329401955
+            },
+            {
+                "Sequence": 117,
+                "Waiting_Time": 49.60138405171106
+            },
+            {
+                "Sequence": 118,
+                "Waiting_Time": 82.04901737931324
+            },
+            {
+                "Sequence": 119,
+                "Waiting_Time": 53.28201556288597
+            },
+            {
+                "Sequence": 120,
+                "Waiting_Time": 87.01195564383772
+            },
+            {
+                "Sequence": 121,
+                "Waiting_Time": 49.85450070037604
+            },
+            {
+                "Sequence": 122,
+                "Waiting_Time": 73.33025084087775
+            },
+            {
+                "Sequence": 123,
+                "Waiting_Time": 54.61384576511203
+            },
+            {
+                "Sequence": 124,
+                "Waiting_Time": 73.72175377134963
+            },
+            {
+                "Sequence": 125,
+                "Waiting_Time": 45.17137152289498
+            },
+            {
+                "Sequence": 126,
+                "Waiting_Time": 78.14876974088294
+            },
+            {
+                "Sequence": 127,
+                "Waiting_Time": 87.85996641486568
+            },
+            {
+                "Sequence": 128,
+                "Waiting_Time": 88.76636890382306
+            },
+            {
+                "Sequence": 129,
+                "Waiting_Time": 50.91311147457541
+            },
+            {
+                "Sequence": 130,
+                "Waiting_Time": 49.30724105305396
+            },
+            {
+                "Sequence": 131,
+                "Waiting_Time": 79.73557075568115
+            },
+            {
+                "Sequence": 132,
+                "Waiting_Time": 76.82347918676399
+            },
+            {
+                "Sequence": 133,
+                "Waiting_Time": 38.51100143442005
+            },
+            {
+                "Sequence": 134,
+                "Waiting_Time": 81.50093344602953
+            },
+            {
+                "Sequence": 135,
+                "Waiting_Time": 84.02336337084984
+            },
+            {
+                "Sequence": 136,
+                "Waiting_Time": 74.69858453605761
+            },
+            {
+                "Sequence": 137,
+                "Waiting_Time": 47.13023671561123
+            },
+            {
+                "Sequence": 138,
+                "Waiting_Time": 59.63483430498388
+            },
+            {
+                "Sequence": 139,
+                "Waiting_Time": 82.3755879569733
+            },
+            {
+                "Sequence": 140,
+                "Waiting_Time": 85.42406070702222
+            },
+            {
+                "Sequence": 141,
+                "Waiting_Time": 70.9468944665365
+            },
+            {
+                "Sequence": 142,
+                "Waiting_Time": 61.386067782916726
+            },
+            {
+                "Sequence": 143,
+                "Waiting_Time": 44.20477264726702
+            },
+            {
+                "Sequence": 144,
+                "Waiting_Time": 84.19737244193988
+            },
+            {
+                "Sequence": 145,
+                "Waiting_Time": 46.56515603358356
+            },
+            {
+                "Sequence": 146,
+                "Waiting_Time": 73.23280918551569
+            },
+            {
+                "Sequence": 147,
+                "Waiting_Time": 74.0846172371124
+            },
+            {
+                "Sequence": 148,
+                "Waiting_Time": 58.28100285735659
+            },
+            {
+                "Sequence": 149,
+                "Waiting_Time": 81.12615685845766
+            },
+            {
+                "Sequence": 150,
+                "Waiting_Time": 52.1784265793674
+            },
+            {
+                "Sequence": 151,
+                "Waiting_Time": 82.06079799375485
+            },
+            {
+                "Sequence": 152,
+                "Waiting_Time": 43.78235055619047
+            },
+            {
+                "Sequence": 153,
+                "Waiting_Time": 80.26753168790803
+            },
+            {
+                "Sequence": 154,
+                "Waiting_Time": 81.07530100766307
+            },
+            {
+                "Sequence": 155,
+                "Waiting_Time": 55.277540519192
+            },
+            {
+                "Sequence": 156,
+                "Waiting_Time": 83.23616783866196
+            },
+            {
+                "Sequence": 157,
+                "Waiting_Time": 51.10467068072191
+            },
+            {
+                "Sequence": 158,
+                "Waiting_Time": 69.80815042991789
+            },
+            {
+                "Sequence": 159,
+                "Waiting_Time": 74.75573730209393
+            },
+            {
+                "Sequence": 160,
+                "Waiting_Time": 49.74489981497202
+            },
+            {
+                "Sequence": 161,
+                "Waiting_Time": 88.74476195126752
+            },
+            {
+                "Sequence": 162,
+                "Waiting_Time": 46.77857198295679
+            },
+            {
+                "Sequence": 163,
+                "Waiting_Time": 84.24304439182882
+            },
+            {
+                "Sequence": 164,
+                "Waiting_Time": 46.79062606121627
+            },
+            {
+                "Sequence": 165,
+                "Waiting_Time": 43.021509684782984
+            },
+            {
+                "Sequence": 166,
+                "Waiting_Time": 56.376072229640066
+            },
+            {
+                "Sequence": 167,
+                "Waiting_Time": 85.38735943760128
+            },
+            {
+                "Sequence": 168,
+                "Waiting_Time": 58.22422195443382
+            },
+            {
+                "Sequence": 169,
+                "Waiting_Time": 78.86357499660683
+            },
+            {
+                "Sequence": 170,
+                "Waiting_Time": 55.28594510417163
+            },
+            {
+                "Sequence": 171,
+                "Waiting_Time": 87.74973178291161
+            },
+            {
+                "Sequence": 172,
+                "Waiting_Time": 75.92265963459359
+            },
+            {
+                "Sequence": 173,
+                "Waiting_Time": 45.216896613272645
+            },
+            {
+                "Sequence": 174,
+                "Waiting_Time": 77.88747037635005
+            },
+            {
+                "Sequence": 175,
+                "Waiting_Time": 80.34260325067665
+            },
+            {
+                "Sequence": 176,
+                "Waiting_Time": 44.91832482727521
+            },
+            {
+                "Sequence": 177,
+                "Waiting_Time": 83.59518380238896
+            },
+            {
+                "Sequence": 178,
+                "Waiting_Time": 51.245276860871414
+            },
+            {
+                "Sequence": 179,
+                "Waiting_Time": 53.51680377149854
+            },
+            {
+                "Sequence": 180,
+                "Waiting_Time": 82.09339205027568
+            },
+            {
+                "Sequence": 181,
+                "Waiting_Time": 57.5177512406835
+            },
+            {
+                "Sequence": 182,
+                "Waiting_Time": 73.08412417033945
+            },
+            {
+                "Sequence": 183,
+                "Waiting_Time": 41.76623665476321
+            },
+            {
+                "Sequence": 184,
+                "Waiting_Time": 73.8596768008025
+            },
+            {
+                "Sequence": 185,
+                "Waiting_Time": 82.99085375905344
+            },
+            {
+                "Sequence": 186,
+                "Waiting_Time": 46.11622183077862
+            },
+            {
+                "Sequence": 187,
+                "Waiting_Time": 59.529986458628144
+            },
+            {
+                "Sequence": 188,
+                "Waiting_Time": 87.01501784719791
+            },
+            {
+                "Sequence": 189,
+                "Waiting_Time": 38.625038999883216
+            },
+            {
+                "Sequence": 190,
+                "Waiting_Time": 79.0310060362714
+            },
+            {
+                "Sequence": 191,
+                "Waiting_Time": 47.22489091132487
+            },
+            {
+                "Sequence": 192,
+                "Waiting_Time": 43.00662693464464
+            },
+            {
+                "Sequence": 193,
+                "Waiting_Time": 76.59120487222954
+            },
+            {
+                "Sequence": 194,
+                "Waiting_Time": 51.56470093644637
+            },
+            {
+                "Sequence": 195,
+                "Waiting_Time": 56.58375069405248
+            },
+            {
+                "Sequence": 196,
+                "Waiting_Time": 66.82772491747816
+            },
+            {
+                "Sequence": 197,
+                "Waiting_Time": 85.44392200306439
+            },
+            {
+                "Sequence": 198,
+                "Waiting_Time": 76.82130692610207
+            },
+            {
+                "Sequence": 199,
+                "Waiting_Time": 51.01235971946217
+            },
+            {
+                "Sequence": 200,
+                "Waiting_Time": 80.48900250990489
+            },
+            {
+                "Sequence": 201,
+                "Waiting_Time": 48.881736981435935
+            },
+            {
+                "Sequence": 202,
+                "Waiting_Time": 75.42829519938547
+            },
+            {
+                "Sequence": 203,
+                "Waiting_Time": 81.34299545967636
+            },
+            {
+                "Sequence": 204,
+                "Waiting_Time": 47.241474765951665
+            },
+            {
+                "Sequence": 205,
+                "Waiting_Time": 71.54311026468997
+            },
+            {
+                "Sequence": 206,
+                "Waiting_Time": 55.6334643041817
+            },
+            {
+                "Sequence": 207,
+                "Waiting_Time": 53.26523853580391
+            },
+            {
+                "Sequence": 208,
+                "Waiting_Time": 82.149696418546
+            },
+            {
+                "Sequence": 209,
+                "Waiting_Time": 49.71001393404497
+            },
+            {
+                "Sequence": 210,
+                "Waiting_Time": 83.33846656989576
+            },
+            {
+                "Sequence": 211,
+                "Waiting_Time": 50.202752657318776
+            },
+            {
+                "Sequence": 212,
+                "Waiting_Time": 68.74961737942739
+            },
+            {
+                "Sequence": 213,
+                "Waiting_Time": 82.31994162334423
+            },
+            {
+                "Sequence": 214,
+                "Waiting_Time": 51.177814410855675
+            },
+            {
+                "Sequence": 215,
+                "Waiting_Time": 79.9949017021356
+            },
+            {
+                "Sequence": 216,
+                "Waiting_Time": 49.58634597939729
+            },
+            {
+                "Sequence": 217,
+                "Waiting_Time": 77.98388086483864
+            },
+            {
+                "Sequence": 218,
+                "Waiting_Time": 57.97713131271958
+            },
+            {
+                "Sequence": 219,
+                "Waiting_Time": 81.73498605385942
+            },
+            {
+                "Sequence": 220,
+                "Waiting_Time": 50.105884971839394
+            },
+            {
+                "Sequence": 221,
+                "Waiting_Time": 83.19417686400307
+            },
+            {
+                "Sequence": 222,
+                "Waiting_Time": 51.50145754121409
+            },
+            {
+                "Sequence": 223,
+                "Waiting_Time": 81.12057758254817
+            },
+            {
+                "Sequence": 224,
+                "Waiting_Time": 76.7755380996073
+            },
+            {
+                "Sequence": 225,
+                "Waiting_Time": 54.75544205232045
+            },
+            {
+                "Sequence": 226,
+                "Waiting_Time": 81.48416268277741
+            },
+            {
+                "Sequence": 227,
+                "Waiting_Time": 46.225315752504585
+            },
+            {
+                "Sequence": 228,
+                "Waiting_Time": 80.88548349444339
+            },
+            {
+                "Sequence": 229,
+                "Waiting_Time": 79.35603945048351
+            },
+            {
+                "Sequence": 230,
+                "Waiting_Time": 54.2877016729146
+            },
+            {
+                "Sequence": 231,
+                "Waiting_Time": 75.69817630575457
+            },
+            {
+                "Sequence": 232,
+                "Waiting_Time": 78.93484182158501
+            },
+            {
+                "Sequence": 233,
+                "Waiting_Time": 49.0655660056402
+            },
+            {
+                "Sequence": 234,
+                "Waiting_Time": 84.6710105558011
+            },
+            {
+                "Sequence": 235,
+                "Waiting_Time": 46.054884985227964
+            },
+            {
+                "Sequence": 236,
+                "Waiting_Time": 83.77104721592927
+            },
+            {
+                "Sequence": 237,
+                "Waiting_Time": 40.63376861341953
+            },
+            {
+                "Sequence": 238,
+                "Waiting_Time": 87.38337354919379
+            },
+            {
+                "Sequence": 239,
+                "Waiting_Time": 68.56424634746502
+            },
+            {
+                "Sequence": 240,
+                "Waiting_Time": 80.8767690064248
+            },
+            {
+                "Sequence": 241,
+                "Waiting_Time": 48.93385784170216
+            },
+            {
+                "Sequence": 242,
+                "Waiting_Time": 69.3246170321907
+            },
+            {
+                "Sequence": 243,
+                "Waiting_Time": 82.39206196358072
+            },
+            {
+                "Sequence": 244,
+                "Waiting_Time": 82.82717005403597
+            },
+            {
+                "Sequence": 245,
+                "Waiting_Time": 76.32161828794946
+            },
+            {
+                "Sequence": 246,
+                "Waiting_Time": 49.351032386128125
+            },
+            {
+                "Sequence": 247,
+                "Waiting_Time": 76.95878956426279
+            },
+            {
+                "Sequence": 248,
+                "Waiting_Time": 43.92422067682159
+            },
+            {
+                "Sequence": 249,
+                "Waiting_Time": 78.72653362030911
+            },
+            {
+                "Sequence": 250,
+                "Waiting_Time": 49.92165358316578
+            },
+            {
+                "Sequence": 251,
+                "Waiting_Time": 39.74418438698925
+            },
+            {
+                "Sequence": 252,
+                "Waiting_Time": 77.74957718911054
+            },
+            {
+                "Sequence": 253,
+                "Waiting_Time": 85.03402097023859
+            },
+            {
+                "Sequence": 254,
+                "Waiting_Time": 87.41352643986765
+            },
+            {
+                "Sequence": 255,
+                "Waiting_Time": 78.74019002269715
+            },
+            {
+                "Sequence": 256,
+                "Waiting_Time": 50.70240223501111
+            },
+            {
+                "Sequence": 257,
+                "Waiting_Time": 78.2638893568521
+            },
+            {
+                "Sequence": 258,
+                "Waiting_Time": 52.67495838587673
+            },
+            {
+                "Sequence": 259,
+                "Waiting_Time": 82.27369032221014
+            },
+            {
+                "Sequence": 260,
+                "Waiting_Time": 56.21395395135954
+            },
+            {
+                "Sequence": 261,
+                "Waiting_Time": 81.53939386320577
+            },
+            {
+                "Sequence": 262,
+                "Waiting_Time": 55.09897389430299
+            },
+            {
+                "Sequence": 263,
+                "Waiting_Time": 86.05119163674901
+            },
+            {
+                "Sequence": 264,
+                "Waiting_Time": 56.60270481043043
+            },
+            {
+                "Sequence": 265,
+                "Waiting_Time": 82.0671689591109
+            },
+            {
+                "Sequence": 266,
+                "Waiting_Time": 50.35521094413502
+            },
+            {
+                "Sequence": 267,
+                "Waiting_Time": 76.4427995384727
+            },
+            {
+                "Sequence": 268,
+                "Waiting_Time": 56.585942445005955
+            },
+            {
+                "Sequence": 269,
+                "Waiting_Time": 65.66801812575568
+            },
+            {
+                "Sequence": 270,
+                "Waiting_Time": 77.88939487570796
+            },
+            {
+                "Sequence": 271,
+                "Waiting_Time": 44.71738212097313
+            },
+            {
+                "Sequence": 272,
+                "Waiting_Time": 80.06936128506555
+            },
+            {
+                "Sequence": 273,
+                "Waiting_Time": 51.50142218036549
+            },
+            {
+                "Sequence": 274,
+                "Waiting_Time": 56.535782733835546
+            },
+            {
+                "Sequence": 275,
+                "Waiting_Time": 77.6312388058976
+            },
+            {
+                "Sequence": 276,
+                "Waiting_Time": 52.68935650959075
+            },
+            {
+                "Sequence": 277,
+                "Waiting_Time": 81.27807172662084
+            },
+            {
+                "Sequence": 278,
+                "Waiting_Time": 40.627481110411736
+            },
+            {
+                "Sequence": 279,
+                "Waiting_Time": 84.5184817352134
+            },
+            {
+                "Sequence": 280,
+                "Waiting_Time": 54.37380801535462
+            },
+            {
+                "Sequence": 281,
+                "Waiting_Time": 50.75028162604486
+            },
+            {
+                "Sequence": 282,
+                "Waiting_Time": 78.01739392618293
+            },
+            {
+                "Sequence": 283,
+                "Waiting_Time": 54.772304915322685
+            },
+            {
+                "Sequence": 284,
+                "Waiting_Time": 78.60709135321328
+            },
+            {
+                "Sequence": 285,
+                "Waiting_Time": 50.724210769000834
+            },
+            {
+                "Sequence": 286,
+                "Waiting_Time": 74.64869235233402
+            },
+            {
+                "Sequence": 287,
+                "Waiting_Time": 49.07837263529985
+            },
+            {
+                "Sequence": 288,
+                "Waiting_Time": 50.43189385628123
+            },
+            {
+                "Sequence": 289,
+                "Waiting_Time": 45.49171621731172
+            },
+            {
+                "Sequence": 290,
+                "Waiting_Time": 79.93303139614329
+            },
+            {
+                "Sequence": 291,
+                "Waiting_Time": 51.109837536008754
+            },
+            {
+                "Sequence": 292,
+                "Waiting_Time": 86.48942366241593
+            },
+            {
+                "Sequence": 293,
+                "Waiting_Time": 52.97804698809042
+            },
+            {
+                "Sequence": 294,
+                "Waiting_Time": 75.67972202400361
+            },
+            {
+                "Sequence": 295,
+                "Waiting_Time": 54.71663341187145
+            },
+            {
+                "Sequence": 296,
+                "Waiting_Time": 81.46326136188948
+            },
+            {
+                "Sequence": 297,
+                "Waiting_Time": 53.39381556413584
+            },
+            {
+                "Sequence": 298,
+                "Waiting_Time": 84.70371882102607
+            },
+            {
+                "Sequence": 299,
+                "Waiting_Time": 81.4786547051005
+            }
+        ],
+        "analysis_report": {
+            "knn5_mean": -1.9138965000375974,
+            "knn5_std": 0.5637517624761178,
+            "local_dim5_mean": 1.8466666666666667,
+            "local_dim5_std": 0.36030850978324425,
+            "knn10_mean": -1.6093801920446968,
+            "knn10_std": 0.5477572070014015,
+            "local_dim10_mean": 1.9933333333333334,
+            "local_dim10_std": 0.08137703743822468,
+            "knn20_mean": -1.283561592617996,
+            "knn20_std": 0.5411259964909294,
+            "local_dim20_mean": 2.0,
+            "local_dim20_std": 0.0,
+            "global_dim90": 2,
+            "ev1": 0.516002687144147,
+            "ev2": 0.48399731285585307,
+            "ev3": 0.0,
+            "tda_betti0": 0.0,
+            "tda_betti1": 0.0,
+            "tda_life_mean": 0.0,
+            "tda_life_max": 0.0,
+            "hurst": 0.9974720831469707,
+            "fractal_dim": 1.0,
+            "mf_width": 0.0,
+            "mf_singularity": 2.017714758807007,
+            "mf_asymmetry": 1.0,
+            "fisher": 0.5086950919894367,
+            "rqa_rr": 0.09981532363407054,
+            "rqa_det": 0.03350631768953068,
+            "var": 1.0,
+            "entropy": 11.472464010719715
+        }
+    }
+}

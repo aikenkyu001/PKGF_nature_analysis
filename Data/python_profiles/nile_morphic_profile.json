@@ -1,0 +1,447 @@
+{
+    "metadata": {
+        "source": "nile_raw.csv",
+        "total_samples": 100,
+        "headers": [
+            "Year",
+            "Level"
+        ]
+    },
+    "structure": {
+        "primitive_id": 200,
+        "data_quanta": [
+            {
+                "Year": 1871,
+                "Level": 1120
+            },
+            {
+                "Year": 1872,
+                "Level": 1160
+            },
+            {
+                "Year": 1873,
+                "Level": 963
+            },
+            {
+                "Year": 1874,
+                "Level": 1210
+            },
+            {
+                "Year": 1875,
+                "Level": 1160
+            },
+            {
+                "Year": 1876,
+                "Level": 1160
+            },
+            {
+                "Year": 1877,
+                "Level": 813
+            },
+            {
+                "Year": 1878,
+                "Level": 1230
+            },
+            {
+                "Year": 1879,
+                "Level": 1370
+            },
+            {
+                "Year": 1880,
+                "Level": 1140
+            },
+            {
+                "Year": 1881,
+                "Level": 995
+            },
+            {
+                "Year": 1882,
+                "Level": 935
+            },
+            {
+                "Year": 1883,
+                "Level": 1110
+            },
+            {
+                "Year": 1884,
+                "Level": 994
+            },
+            {
+                "Year": 1885,
+                "Level": 1020
+            },
+            {
+                "Year": 1886,
+                "Level": 960
+            },
+            {
+                "Year": 1887,
+                "Level": 1180
+            },
+            {
+                "Year": 1888,
+                "Level": 799
+            },
+            {
+                "Year": 1889,
+                "Level": 958
+            },
+            {
+                "Year": 1890,
+                "Level": 1140
+            },
+            {
+                "Year": 1891,
+                "Level": 1100
+            },
+            {
+                "Year": 1892,
+                "Level": 1210
+            },
+            {
+                "Year": 1893,
+                "Level": 1150
+            },
+            {
+                "Year": 1894,
+                "Level": 1250
+            },
+            {
+                "Year": 1895,
+                "Level": 1260
+            },
+            {
+                "Year": 1896,
+                "Level": 1220
+            },
+            {
+                "Year": 1897,
+                "Level": 1030
+            },
+            {
+                "Year": 1898,
+                "Level": 1100
+            },
+            {
+                "Year": 1899,
+                "Level": 774
+            },
+            {
+                "Year": 1900,
+                "Level": 840
+            },
+            {
+                "Year": 1901,
+                "Level": 874
+            },
+            {
+                "Year": 1902,
+                "Level": 694
+            },
+            {
+                "Year": 1903,
+                "Level": 940
+            },
+            {
+                "Year": 1904,
+                "Level": 833
+            },
+            {
+                "Year": 1905,
+                "Level": 701
+            },
+            {
+                "Year": 1906,
+                "Level": 916
+            },
+            {
+                "Year": 1907,
+                "Level": 692
+            },
+            {
+                "Year": 1908,
+                "Level": 1020
+            },
+            {
+                "Year": 1909,
+                "Level": 1050
+            },
+            {
+                "Year": 1910,
+                "Level": 969
+            },
+            {
+                "Year": 1911,
+                "Level": 831
+            },
+            {
+                "Year": 1912,
+                "Level": 726
+            },
+            {
+                "Year": 1913,
+                "Level": 456
+            },
+            {
+                "Year": 1914,
+                "Level": 824
+            },
+            {
+                "Year": 1915,
+                "Level": 702
+            },
+            {
+                "Year": 1916,
+                "Level": 1120
+            },
+            {
+                "Year": 1917,
+                "Level": 1100
+            },
+            {
+                "Year": 1918,
+                "Level": 832
+            },
+            {
+                "Year": 1919,
+                "Level": 764
+            },
+            {
+                "Year": 1920,
+                "Level": 821
+            },
+            {
+                "Year": 1921,
+                "Level": 768
+            },
+            {
+                "Year": 1922,
+                "Level": 845
+            },
+            {
+                "Year": 1923,
+                "Level": 864
+            },
+            {
+                "Year": 1924,
+                "Level": 862
+            },
+            {
+                "Year": 1925,
+                "Level": 698
+            },
+            {
+                "Year": 1926,
+                "Level": 845
+            },
+            {
+                "Year": 1927,
+                "Level": 744
+            },
+            {
+                "Year": 1928,
+                "Level": 796
+            },
+            {
+                "Year": 1929,
+                "Level": 1040
+            },
+            {
+                "Year": 1930,
+                "Level": 759
+            },
+            {
+                "Year": 1931,
+                "Level": 781
+            },
+            {
+                "Year": 1932,
+                "Level": 865
+            },
+            {
+                "Year": 1933,
+                "Level": 845
+            },
+            {
+                "Year": 1934,
+                "Level": 944
+            },
+            {
+                "Year": 1935,
+                "Level": 984
+            },
+            {
+                "Year": 1936,
+                "Level": 897
+            },
+            {
+                "Year": 1937,
+                "Level": 822
+            },
+            {
+                "Year": 1938,
+                "Level": 1010
+            },
+            {
+                "Year": 1939,
+                "Level": 771
+            },
+            {
+                "Year": 1940,
+                "Level": 676
+            },
+            {
+                "Year": 1941,
+                "Level": 649
+            },
+            {
+                "Year": 1942,
+                "Level": 846
+            },
+            {
+                "Year": 1943,
+                "Level": 812
+            },
+            {
+                "Year": 1944,
+                "Level": 742
+            },
+            {
+                "Year": 1945,
+                "Level": 801
+            },
+            {
+                "Year": 1946,
+                "Level": 1040
+            },
+            {
+                "Year": 1947,
+                "Level": 860
+            },
+            {
+                "Year": 1948,
+                "Level": 874
+            },
+            {
+                "Year": 1949,
+                "Level": 848
+            },
+            {
+                "Year": 1950,
+                "Level": 890
+            },
+            {
+                "Year": 1951,
+                "Level": 744
+            },
+            {
+                "Year": 1952,
+                "Level": 749
+            },
+            {
+                "Year": 1953,
+                "Level": 838
+            },
+            {
+                "Year": 1954,
+                "Level": 1050
+            },
+            {
+                "Year": 1955,
+                "Level": 918
+            },
+            {
+                "Year": 1956,
+                "Level": 986
+            },
+            {
+                "Year": 1957,
+                "Level": 797
+            },
+            {
+                "Year": 1958,
+                "Level": 923
+            },
+            {
+                "Year": 1959,
+                "Level": 975
+            },
+            {
+                "Year": 1960,
+                "Level": 815
+            },
+            {
+                "Year": 1961,
+                "Level": 1020
+            },
+            {
+                "Year": 1962,
+                "Level": 906
+            },
+            {
+                "Year": 1963,
+                "Level": 901
+            },
+            {
+                "Year": 1964,
+                "Level": 1170
+            },
+            {
+                "Year": 1965,
+                "Level": 912
+            },
+            {
+                "Year": 1966,
+                "Level": 746
+            },
+            {
+                "Year": 1967,
+                "Level": 919
+            },
+            {
+                "Year": 1968,
+                "Level": 718
+            },
+            {
+                "Year": 1969,
+                "Level": 714
+            },
+            {
+                "Year": 1970,
+                "Level": 740
+            }
+        ],
+        "analysis_report": {
+            "knn5_mean": -1.2944224977807657,
+            "knn5_std": 0.6080219330203764,
+            "local_dim5_mean": 1.76,
+            "local_dim5_std": 0.4270831300812525,
+            "knn10_mean": -0.9470930002535188,
+            "knn10_std": 0.6021214979537739,
+            "local_dim10_mean": 1.99,
+            "local_dim10_std": 0.09949874371066199,
+            "knn20_mean": -0.5994702082557037,
+            "knn20_std": 0.5878837079909625,
+            "local_dim20_mean": 2.0,
+            "local_dim20_std": 0.0,
+            "global_dim90": 2,
+            "ev1": 0.7326632785003446,
+            "ev2": 0.2673367214996553,
+            "ev3": 0.0,
+            "tda_betti0": 0.0,
+            "tda_betti1": 0.0,
+            "tda_life_mean": 0.0,
+            "tda_life_max": 0.0,
+            "hurst": 0.6177412303528428,
+            "fractal_dim": 0.8977279923499916,
+            "mf_width": 0.3300595513780069,
+            "mf_singularity": 0.7820654592598306,
+            "mf_asymmetry": 1.534947663047293,
+            "fisher": 2.892888436938752,
+            "rqa_rr": 0.09995835068721366,
+            "rqa_det": 0.017708333333333333,
+            "var": 1.0,
+            "entropy": 7.198726492786401
+        }
+    }
+}

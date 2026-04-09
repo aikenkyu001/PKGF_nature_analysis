@@ -1,0 +1,4047 @@
+{
+    "metadata": {
+        "source": "hydrothermal_raw.csv",
+        "total_samples": 1000,
+        "headers": [
+            "Time",
+            "Temperature"
+        ]
+    },
+    "structure": {
+        "primitive_id": 200,
+        "data_quanta": [
+            {
+                "Time": 0,
+                "Temperature": 250.40075140721783
+            },
+            {
+                "Time": 1,
+                "Temperature": 249.82207600805083
+            },
+            {
+                "Time": 2,
+                "Temperature": 250.20145422977643
+            },
+            {
+                "Time": 3,
+                "Temperature": 249.51578090813564
+            },
+            {
+                "Time": 4,
+                "Temperature": 249.57001151611314
+            },
+            {
+                "Time": 5,
+                "Temperature": 277.2667204222359
+            },
+            {
+                "Time": 6,
+                "Temperature": 298.025739823037
+            },
+            {
+                "Time": 7,
+                "Temperature": 305.0831090064583
+            },
+            {
+                "Time": 8,
+                "Temperature": 312.26317939163204
+            },
+            {
+                "Time": 9,
+                "Temperature": 321.72646707390305
+            },
+            {
+                "Time": 10,
+                "Temperature": 320.6437355561976
+            },
+            {
+                "Time": 11,
+                "Temperature": 331.01057605367276
+            },
+            {
+                "Time": 12,
+                "Temperature": 325.2229072954404
+            },
+            {
+                "Time": 13,
+                "Temperature": 328.34008284454285
+            },
+            {
+                "Time": 14,
+                "Temperature": 326.6778124740883
+            },
+            {
+                "Time": 15,
+                "Temperature": 333.0179769347669
+            },
+            {
+                "Time": 16,
+                "Temperature": 337.57625596525395
+            },
+            {
+                "Time": 17,
+                "Temperature": 348.99118240251556
+            },
+            {
+                "Time": 18,
+                "Temperature": 353.0767817527308
+            },
+            {
+                "Time": 19,
+                "Temperature": 353.2549301000062
+            },
+            {
+                "Time": 20,
+                "Temperature": 352.2289808544436
+            },
+            {
+                "Time": 21,
+                "Temperature": 351.8720362029126
+            },
+            {
+                "Time": 22,
+                "Temperature": 348.2847245191707
+            },
+            {
+                "Time": 23,
+                "Temperature": 352.68427894329415
+            },
+            {
+                "Time": 24,
+                "Temperature": 358.71667637869734
+            },
+            {
+                "Time": 25,
+                "Temperature": 356.33664820693184
+            },
+            {
+                "Time": 26,
+                "Temperature": 352.2280028056385
+            },
+            {
+                "Time": 27,
+                "Temperature": 350.56704050784157
+            },
+            {
+                "Time": 28,
+                "Temperature": 351.14057482588044
+            },
+            {
+                "Time": 29,
+                "Temperature": 346.49036966540973
+            },
+            {
+                "Time": 30,
+                "Temperature": 344.3462084576652
+            },
+            {
+                "Time": 31,
+                "Temperature": 343.9791307026835
+            },
+            {
+                "Time": 32,
+                "Temperature": 341.84756561543134
+            },
+            {
+                "Time": 33,
+                "Temperature": 341.4717353765245
+            },
+            {
+                "Time": 34,
+                "Temperature": 346.6842344941777
+            },
+            {
+                "Time": 35,
+                "Temperature": 344.07705805229034
+            },
+            {
+                "Time": 36,
+                "Temperature": 339.65830993961185
+            },
+            {
+                "Time": 37,
+                "Temperature": 335.4424152946503
+            },
+            {
+                "Time": 38,
+                "Temperature": 330.37073282089705
+            },
+            {
+                "Time": 39,
+                "Temperature": 326.37675086003935
+            },
+            {
+                "Time": 40,
+                "Temperature": 321.68384032971744
+            },
+            {
+                "Time": 41,
+                "Temperature": 318.0030127628991
+            },
+            {
+                "Time": 42,
+                "Temperature": 314.4127849874129
+            },
+            {
+                "Time": 43,
+                "Temperature": 311.15048168662213
+            },
+            {
+                "Time": 44,
+                "Temperature": 307.95106502751236
+            },
+            {
+                "Time": 45,
+                "Temperature": 304.132483716193
+            },
+            {
+                "Time": 46,
+                "Temperature": 301.24062041845605
+            },
+            {
+                "Time": 47,
+                "Temperature": 299.8253845350512
+            },
+            {
+                "Time": 48,
+                "Temperature": 297.39824431527
+            },
+            {
+                "Time": 49,
+                "Temperature": 294.9000660993405
+            },
+            {
+                "Time": 50,
+                "Temperature": 292.74718941544035
+            },
+            {
+                "Time": 51,
+                "Temperature": 290.9969328708382
+            },
+            {
+                "Time": 52,
+                "Temperature": 289.7493212110092
+            },
+            {
+                "Time": 53,
+                "Temperature": 287.1894323526386
+            },
+            {
+                "Time": 54,
+                "Temperature": 286.3714872353182
+            },
+            {
+                "Time": 55,
+                "Temperature": 284.3288247501127
+            },
+            {
+                "Time": 56,
+                "Temperature": 281.62672947924744
+            },
+            {
+                "Time": 57,
+                "Temperature": 280.0176492456133
+            },
+            {
+                "Time": 58,
+                "Temperature": 278.76944227511876
+            },
+            {
+                "Time": 59,
+                "Temperature": 277.48350704689676
+            },
+            {
+                "Time": 60,
+                "Temperature": 297.88944953859067
+            },
+            {
+                "Time": 61,
+                "Temperature": 311.82391386685947
+            },
+            {
+                "Time": 62,
+                "Temperature": 311.15982779987206
+            },
+            {
+                "Time": 63,
+                "Temperature": 324.18274249051876
+            },
+            {
+                "Time": 64,
+                "Temperature": 321.60562256972366
+            },
+            {
+                "Time": 65,
+                "Temperature": 317.1258457667302
+            },
+            {
+                "Time": 66,
+                "Temperature": 313.5358920094401
+            },
+            {
+                "Time": 67,
+                "Temperature": 310.2444663776171
+            },
+            {
+                "Time": 68,
+                "Temperature": 306.5480214550614
+            },
+            {
+                "Time": 69,
+                "Temperature": 303.7101254849058
+            },
+            {
+                "Time": 70,
+                "Temperature": 300.69384329679355
+            },
+            {
+                "Time": 71,
+                "Temperature": 297.9531082935041
+            },
+            {
+                "Time": 72,
+                "Temperature": 295.3533442328624
+            },
+            {
+                "Time": 73,
+                "Temperature": 292.2849298575954
+            },
+            {
+                "Time": 74,
+                "Temperature": 301.30547571983533
+            },
+            {
+                "Time": 75,
+                "Temperature": 303.29620146245526
+            },
+            {
+                "Time": 76,
+                "Temperature": 314.98941674797004
+            },
+            {
+                "Time": 77,
+                "Temperature": 324.8961714619963
+            },
+            {
+                "Time": 78,
+                "Temperature": 324.7620847041816
+            },
+            {
+                "Time": 79,
+                "Temperature": 326.524399365045
+            },
+            {
+                "Time": 80,
+                "Temperature": 329.113012498469
+            },
+            {
+                "Time": 81,
+                "Temperature": 332.5748970687284
+            },
+            {
+                "Time": 82,
+                "Temperature": 339.50587837353874
+            },
+            {
+                "Time": 83,
+                "Temperature": 337.0593038315857
+            },
+            {
+                "Time": 84,
+                "Temperature": 338.50437184826626
+            },
+            {
+                "Time": 85,
+                "Temperature": 342.9558649515623
+            },
+            {
+                "Time": 86,
+                "Temperature": 349.3774396095256
+            },
+            {
+                "Time": 87,
+                "Temperature": 347.86589498628206
+            },
+            {
+                "Time": 88,
+                "Temperature": 348.1268050280227
+            },
+            {
+                "Time": 89,
+                "Temperature": 352.6561889868515
+            },
+            {
+                "Time": 90,
+                "Temperature": 356.00631026531084
+            },
+            {
+                "Time": 91,
+                "Temperature": 350.68971198029413
+            },
+            {
+                "Time": 92,
+                "Temperature": 345.0693866111462
+            },
+            {
+                "Time": 93,
+                "Temperature": 339.96080530015365
+            },
+            {
+                "Time": 94,
+                "Temperature": 335.5566443333808
+            },
+            {
+                "Time": 95,
+                "Temperature": 331.3957117292802
+            },
+            {
+                "Time": 96,
+                "Temperature": 327.537580332836
+            },
+            {
+                "Time": 97,
+                "Temperature": 324.30232341200275
+            },
+            {
+                "Time": 98,
+                "Temperature": 321.43261491215435
+            },
+            {
+                "Time": 99,
+                "Temperature": 318.13818084939084
+            },
+            {
+                "Time": 100,
+                "Temperature": 314.0789391825297
+            },
+            {
+                "Time": 101,
+                "Temperature": 312.05988317335925
+            },
+            {
+                "Time": 102,
+                "Temperature": 308.153952561217
+            },
+            {
+                "Time": 103,
+                "Temperature": 305.3981413155807
+            },
+            {
+                "Time": 104,
+                "Temperature": 301.8108879455716
+            },
+            {
+                "Time": 105,
+                "Temperature": 298.6991751884888
+            },
+            {
+                "Time": 106,
+                "Temperature": 296.3594993681196
+            },
+            {
+                "Time": 107,
+                "Temperature": 293.54456799257537
+            },
+            {
+                "Time": 108,
+                "Temperature": 292.4326481109133
+            },
+            {
+                "Time": 109,
+                "Temperature": 290.92420133924367
+            },
+            {
+                "Time": 110,
+                "Temperature": 288.34752448205785
+            },
+            {
+                "Time": 111,
+                "Temperature": 286.6580614011811
+            },
+            {
+                "Time": 112,
+                "Temperature": 284.18299122743235
+            },
+            {
+                "Time": 113,
+                "Temperature": 282.5366711120826
+            },
+            {
+                "Time": 114,
+                "Temperature": 281.06514301532275
+            },
+            {
+                "Time": 115,
+                "Temperature": 279.9083481221
+            },
+            {
+                "Time": 116,
+                "Temperature": 278.4741031324983
+            },
+            {
+                "Time": 117,
+                "Temperature": 277.3756152688364
+            },
+            {
+                "Time": 118,
+                "Temperature": 275.70491550685955
+            },
+            {
+                "Time": 119,
+                "Temperature": 274.4066179981312
+            },
+            {
+                "Time": 120,
+                "Temperature": 273.3515045120255
+            },
+            {
+                "Time": 121,
+                "Temperature": 271.37221512295156
+            },
+            {
+                "Time": 122,
+                "Temperature": 269.8032002069982
+            },
+            {
+                "Time": 123,
+                "Temperature": 268.45583026215166
+            },
+            {
+                "Time": 124,
+                "Temperature": 266.72867967473763
+            },
+            {
+                "Time": 125,
+                "Temperature": 267.4669944074829
+            },
+            {
+                "Time": 126,
+                "Temperature": 266.4571188844598
+            },
+            {
+                "Time": 127,
+                "Temperature": 266.10857070212154
+            },
+            {
+                "Time": 128,
+                "Temperature": 265.14187053284707
+            },
+            {
+                "Time": 129,
+                "Temperature": 264.86997235499354
+            },
+            {
+                "Time": 130,
+                "Temperature": 265.0503593991254
+            },
+            {
+                "Time": 131,
+                "Temperature": 263.45236274867744
+            },
+            {
+                "Time": 132,
+                "Temperature": 262.278305626078
+            },
+            {
+                "Time": 133,
+                "Temperature": 261.40879037524724
+            },
+            {
+                "Time": 134,
+                "Temperature": 260.8405137913556
+            },
+            {
+                "Time": 135,
+                "Temperature": 260.4795381477769
+            },
+            {
+                "Time": 136,
+                "Temperature": 259.69394103674836
+            },
+            {
+                "Time": 137,
+                "Temperature": 258.9538453414647
+            },
+            {
+                "Time": 138,
+                "Temperature": 285.7410411470795
+            },
+            {
+                "Time": 139,
+                "Temperature": 303.37396101986053
+            },
+            {
+                "Time": 140,
+                "Temperature": 313.5290265942444
+            },
+            {
+                "Time": 141,
+                "Temperature": 318.58312610438463
+            },
+            {
+                "Time": 142,
+                "Temperature": 336.1674795322638
+            },
+            {
+                "Time": 143,
+                "Temperature": 331.6702042024001
+            },
+            {
+                "Time": 144,
+                "Temperature": 328.1099204517988
+            },
+            {
+                "Time": 145,
+                "Temperature": 324.30339999234604
+            },
+            {
+                "Time": 146,
+                "Temperature": 321.12606195255984
+            },
+            {
+                "Time": 147,
+                "Temperature": 317.5045810020485
+            },
+            {
+                "Time": 148,
+                "Temperature": 313.69683559571206
+            },
+            {
+                "Time": 149,
+                "Temperature": 309.9290637889587
+            },
+            {
+                "Time": 150,
+                "Temperature": 307.17629059495454
+            },
+            {
+                "Time": 151,
+                "Temperature": 304.1716331276017
+            },
+            {
+                "Time": 152,
+                "Temperature": 301.30325365609247
+            },
+            {
+                "Time": 153,
+                "Temperature": 297.9531379042608
+            },
+            {
+                "Time": 154,
+                "Temperature": 296.49364202218277
+            },
+            {
+                "Time": 155,
+                "Temperature": 294.38057739556155
+            },
+            {
+                "Time": 156,
+                "Temperature": 292.72197689967953
+            },
+            {
+                "Time": 157,
+                "Temperature": 291.14937890771375
+            },
+            {
+                "Time": 158,
+                "Temperature": 288.9574551321859
+            },
+            {
+                "Time": 159,
+                "Temperature": 286.96579949386484
+            },
+            {
+                "Time": 160,
+                "Temperature": 284.78439021433115
+            },
+            {
+                "Time": 161,
+                "Temperature": 282.42727087373254
+            },
+            {
+                "Time": 162,
+                "Temperature": 281.23613256723377
+            },
+            {
+                "Time": 163,
+                "Temperature": 279.5472616591245
+            },
+            {
+                "Time": 164,
+                "Temperature": 278.15329957105456
+            },
+            {
+                "Time": 165,
+                "Temperature": 276.11668124689623
+            },
+            {
+                "Time": 166,
+                "Temperature": 273.93164024014965
+            },
+            {
+                "Time": 167,
+                "Temperature": 272.8572213244288
+            },
+            {
+                "Time": 168,
+                "Temperature": 271.80988267799347
+            },
+            {
+                "Time": 169,
+                "Temperature": 270.66558887167224
+            },
+            {
+                "Time": 170,
+                "Temperature": 270.09370684255
+            },
+            {
+                "Time": 171,
+                "Temperature": 269.36647017545124
+            },
+            {
+                "Time": 172,
+                "Temperature": 268.8254717508745
+            },
+            {
+                "Time": 173,
+                "Temperature": 268.6459253315662
+            },
+            {
+                "Time": 174,
+                "Temperature": 267.73274911131904
+            },
+            {
+                "Time": 175,
+                "Temperature": 266.700402066057
+            },
+            {
+                "Time": 176,
+                "Temperature": 266.1278918680867
+            },
+            {
+                "Time": 177,
+                "Temperature": 265.0829207618024
+            },
+            {
+                "Time": 178,
+                "Temperature": 263.73969811736697
+            },
+            {
+                "Time": 179,
+                "Temperature": 263.1645067648221
+            },
+            {
+                "Time": 180,
+                "Temperature": 262.044209555864
+            },
+            {
+                "Time": 181,
+                "Temperature": 261.03303459539944
+            },
+            {
+                "Time": 182,
+                "Temperature": 260.3321558493816
+            },
+            {
+                "Time": 183,
+                "Temperature": 259.0098054411236
+            },
+            {
+                "Time": 184,
+                "Temperature": 257.158099784792
+            },
+            {
+                "Time": 185,
+                "Temperature": 256.46617389491115
+            },
+            {
+                "Time": 186,
+                "Temperature": 255.6492248175885
+            },
+            {
+                "Time": 187,
+                "Temperature": 255.81020871390493
+            },
+            {
+                "Time": 188,
+                "Temperature": 255.76952014661282
+            },
+            {
+                "Time": 189,
+                "Temperature": 256.431657441469
+            },
+            {
+                "Time": 190,
+                "Temperature": 256.2968944159461
+            },
+            {
+                "Time": 191,
+                "Temperature": 256.6372818537587
+            },
+            {
+                "Time": 192,
+                "Temperature": 256.02478397127874
+            },
+            {
+                "Time": 193,
+                "Temperature": 255.9324850962041
+            },
+            {
+                "Time": 194,
+                "Temperature": 256.18793598409366
+            },
+            {
+                "Time": 195,
+                "Temperature": 255.6942305237917
+            },
+            {
+                "Time": 196,
+                "Temperature": 255.11007485317333
+            },
+            {
+                "Time": 197,
+                "Temperature": 255.06102437762647
+            },
+            {
+                "Time": 198,
+                "Temperature": 254.1557854371829
+            },
+            {
+                "Time": 199,
+                "Temperature": 253.05662304593451
+            },
+            {
+                "Time": 200,
+                "Temperature": 251.9698008836766
+            },
+            {
+                "Time": 201,
+                "Temperature": 251.4952675466894
+            },
+            {
+                "Time": 202,
+                "Temperature": 250.1673313749646
+            },
+            {
+                "Time": 203,
+                "Temperature": 250.1739316420586
+            },
+            {
+                "Time": 204,
+                "Temperature": 250.79834321821477
+            },
+            {
+                "Time": 205,
+                "Temperature": 251.08053157705382
+            },
+            {
+                "Time": 206,
+                "Temperature": 251.02431234189734
+            },
+            {
+                "Time": 207,
+                "Temperature": 250.94163562724182
+            },
+            {
+                "Time": 208,
+                "Temperature": 251.31971633439977
+            },
+            {
+                "Time": 209,
+                "Temperature": 250.31577513066108
+            },
+            {
+                "Time": 210,
+                "Temperature": 249.6731139612714
+            },
+            {
+                "Time": 211,
+                "Temperature": 249.4469041471388
+            },
+            {
+                "Time": 212,
+                "Temperature": 249.2370569271658
+            },
+            {
+                "Time": 213,
+                "Temperature": 249.61520914687472
+            },
+            {
+                "Time": 214,
+                "Temperature": 250.2283663544085
+            },
+            {
+                "Time": 215,
+                "Temperature": 249.9161049972689
+            },
+            {
+                "Time": 216,
+                "Temperature": 250.2098240260234
+            },
+            {
+                "Time": 217,
+                "Temperature": 249.40414840125072
+            },
+            {
+                "Time": 218,
+                "Temperature": 249.89671735674779
+            },
+            {
+                "Time": 219,
+                "Temperature": 249.06846523585554
+            },
+            {
+                "Time": 220,
+                "Temperature": 248.8044107304905
+            },
+            {
+                "Time": 221,
+                "Temperature": 248.50949095286296
+            },
+            {
+                "Time": 222,
+                "Temperature": 248.52535703157517
+            },
+            {
+                "Time": 223,
+                "Temperature": 249.92333745192082
+            },
+            {
+                "Time": 224,
+                "Temperature": 250.03926772969734
+            },
+            {
+                "Time": 225,
+                "Temperature": 250.17613445493294
+            },
+            {
+                "Time": 226,
+                "Temperature": 250.37812530401442
+            },
+            {
+                "Time": 227,
+                "Temperature": 250.8083328121657
+            },
+            {
+                "Time": 228,
+                "Temperature": 251.6403326073737
+            },
+            {
+                "Time": 229,
+                "Temperature": 251.85589133909477
+            },
+            {
+                "Time": 230,
+                "Temperature": 251.53286253628977
+            },
+            {
+                "Time": 231,
+                "Temperature": 250.9401316720022
+            },
+            {
+                "Time": 232,
+                "Temperature": 250.8749651359646
+            },
+            {
+                "Time": 233,
+                "Temperature": 250.48589257981908
+            },
+            {
+                "Time": 234,
+                "Temperature": 250.32378522797447
+            },
+            {
+                "Time": 235,
+                "Temperature": 250.27840363596343
+            },
+            {
+                "Time": 236,
+                "Temperature": 250.461938270667
+            },
+            {
+                "Time": 237,
+                "Temperature": 250.68125665795142
+            },
+            {
+                "Time": 238,
+                "Temperature": 250.43913990939495
+            },
+            {
+                "Time": 239,
+                "Temperature": 249.9435225180853
+            },
+            {
+                "Time": 240,
+                "Temperature": 249.68645459043822
+            },
+            {
+                "Time": 241,
+                "Temperature": 249.2740973516114
+            },
+            {
+                "Time": 242,
+                "Temperature": 249.74500480831838
+            },
+            {
+                "Time": 243,
+                "Temperature": 249.7820986840899
+            },
+            {
+                "Time": 244,
+                "Temperature": 249.1478581536136
+            },
+            {
+                "Time": 245,
+                "Temperature": 249.47031376013885
+            },
+            {
+                "Time": 246,
+                "Temperature": 248.9745883700779
+            },
+            {
+                "Time": 247,
+                "Temperature": 249.8855413875122
+            },
+            {
+                "Time": 248,
+                "Temperature": 250.7297937232994
+            },
+            {
+                "Time": 249,
+                "Temperature": 250.20605662830476
+            },
+            {
+                "Time": 250,
+                "Temperature": 250.41809489446322
+            },
+            {
+                "Time": 251,
+                "Temperature": 250.6359219328016
+            },
+            {
+                "Time": 252,
+                "Temperature": 250.1144502721884
+            },
+            {
+                "Time": 253,
+                "Temperature": 250.1626803136378
+            },
+            {
+                "Time": 254,
+                "Temperature": 250.40921093106698
+            },
+            {
+                "Time": 255,
+                "Temperature": 250.19714175622673
+            },
+            {
+                "Time": 256,
+                "Temperature": 250.42860835484328
+            },
+            {
+                "Time": 257,
+                "Temperature": 250.016571097561
+            },
+            {
+                "Time": 258,
+                "Temperature": 269.02215703404886
+            },
+            {
+                "Time": 259,
+                "Temperature": 283.3491921984035
+            },
+            {
+                "Time": 260,
+                "Temperature": 296.4402470966393
+            },
+            {
+                "Time": 261,
+                "Temperature": 303.9244417419797
+            },
+            {
+                "Time": 262,
+                "Temperature": 311.7700484376068
+            },
+            {
+                "Time": 263,
+                "Temperature": 321.8502675765615
+            },
+            {
+                "Time": 264,
+                "Temperature": 318.1681326721959
+            },
+            {
+                "Time": 265,
+                "Temperature": 314.87464688219063
+            },
+            {
+                "Time": 266,
+                "Temperature": 311.4239574088359
+            },
+            {
+                "Time": 267,
+                "Temperature": 308.4527862818709
+            },
+            {
+                "Time": 268,
+                "Temperature": 322.21473977645024
+            },
+            {
+                "Time": 269,
+                "Temperature": 326.0968652135242
+            },
+            {
+                "Time": 270,
+                "Temperature": 332.5096428517007
+            },
+            {
+                "Time": 271,
+                "Temperature": 329.4744194432098
+            },
+            {
+                "Time": 272,
+                "Temperature": 328.79363630835945
+            },
+            {
+                "Time": 273,
+                "Temperature": 329.2932558323958
+            },
+            {
+                "Time": 274,
+                "Temperature": 330.3642102243207
+            },
+            {
+                "Time": 275,
+                "Temperature": 341.4265124047761
+            },
+            {
+                "Time": 276,
+                "Temperature": 346.32704792355895
+            },
+            {
+                "Time": 277,
+                "Temperature": 348.2719937867051
+            },
+            {
+                "Time": 278,
+                "Temperature": 348.3908334642604
+            },
+            {
+                "Time": 279,
+                "Temperature": 352.41853881956
+            },
+            {
+                "Time": 280,
+                "Temperature": 358.069219207382
+            },
+            {
+                "Time": 281,
+                "Temperature": 360.0080339599612
+            },
+            {
+                "Time": 282,
+                "Temperature": 360.3291490801315
+            },
+            {
+                "Time": 283,
+                "Temperature": 366.92400457828154
+            },
+            {
+                "Time": 284,
+                "Temperature": 360.3454184047215
+            },
+            {
+                "Time": 285,
+                "Temperature": 363.5196390442652
+            },
+            {
+                "Time": 286,
+                "Temperature": 359.836801878354
+            },
+            {
+                "Time": 287,
+                "Temperature": 354.7258051294791
+            },
+            {
+                "Time": 288,
+                "Temperature": 361.6632353225718
+            },
+            {
+                "Time": 289,
+                "Temperature": 364.31517650020174
+            },
+            {
+                "Time": 290,
+                "Temperature": 363.74647033107124
+            },
+            {
+                "Time": 291,
+                "Temperature": 358.4349545104306
+            },
+            {
+                "Time": 292,
+                "Temperature": 352.3482283622263
+            },
+            {
+                "Time": 293,
+                "Temperature": 352.3770737032322
+            },
+            {
+                "Time": 294,
+                "Temperature": 353.0078242039839
+            },
+            {
+                "Time": 295,
+                "Temperature": 353.8254866717328
+            },
+            {
+                "Time": 296,
+                "Temperature": 343.68361378805855
+            },
+            {
+                "Time": 297,
+                "Temperature": 342.23164547196205
+            },
+            {
+                "Time": 298,
+                "Temperature": 336.4731467010623
+            },
+            {
+                "Time": 299,
+                "Temperature": 339.96721197690783
+            },
+            {
+                "Time": 300,
+                "Temperature": 338.0656652250343
+            },
+            {
+                "Time": 301,
+                "Temperature": 337.18532307503136
+            },
+            {
+                "Time": 302,
+                "Temperature": 340.58241856693195
+            },
+            {
+                "Time": 303,
+                "Temperature": 340.9882193529406
+            },
+            {
+                "Time": 304,
+                "Temperature": 338.7104191384048
+            },
+            {
+                "Time": 305,
+                "Temperature": 348.839371478125
+            },
+            {
+                "Time": 306,
+                "Temperature": 347.1693251338027
+            },
+            {
+                "Time": 307,
+                "Temperature": 342.10816147793156
+            },
+            {
+                "Time": 308,
+                "Temperature": 336.75762561475096
+            },
+            {
+                "Time": 309,
+                "Temperature": 332.697082962807
+            },
+            {
+                "Time": 310,
+                "Temperature": 329.3901095164305
+            },
+            {
+                "Time": 311,
+                "Temperature": 326.0406140586739
+            },
+            {
+                "Time": 312,
+                "Temperature": 321.9625689528159
+            },
+            {
+                "Time": 313,
+                "Temperature": 318.13194907272776
+            },
+            {
+                "Time": 314,
+                "Temperature": 314.62453761811804
+            },
+            {
+                "Time": 315,
+                "Temperature": 311.1951627023807
+            },
+            {
+                "Time": 316,
+                "Temperature": 308.5192399027899
+            },
+            {
+                "Time": 317,
+                "Temperature": 306.1830615543663
+            },
+            {
+                "Time": 318,
+                "Temperature": 306.5405826610597
+            },
+            {
+                "Time": 319,
+                "Temperature": 317.10821803810785
+            },
+            {
+                "Time": 320,
+                "Temperature": 325.34617428241023
+            },
+            {
+                "Time": 321,
+                "Temperature": 334.58563106477305
+            },
+            {
+                "Time": 322,
+                "Temperature": 341.15567259966167
+            },
+            {
+                "Time": 323,
+                "Temperature": 344.79094833577125
+            },
+            {
+                "Time": 324,
+                "Temperature": 343.35602825650426
+            },
+            {
+                "Time": 325,
+                "Temperature": 338.05523933653404
+            },
+            {
+                "Time": 326,
+                "Temperature": 333.1961086895095
+            },
+            {
+                "Time": 327,
+                "Temperature": 329.02208568563765
+            },
+            {
+                "Time": 328,
+                "Temperature": 325.46025007248005
+            },
+            {
+                "Time": 329,
+                "Temperature": 321.5623017488508
+            },
+            {
+                "Time": 330,
+                "Temperature": 317.9824856068394
+            },
+            {
+                "Time": 331,
+                "Temperature": 314.57716072562835
+            },
+            {
+                "Time": 332,
+                "Temperature": 310.5547216933248
+            },
+            {
+                "Time": 333,
+                "Temperature": 307.36320494072964
+            },
+            {
+                "Time": 334,
+                "Temperature": 304.9696496551402
+            },
+            {
+                "Time": 335,
+                "Temperature": 302.0901343655616
+            },
+            {
+                "Time": 336,
+                "Temperature": 298.6760137746014
+            },
+            {
+                "Time": 337,
+                "Temperature": 296.9320926016411
+            },
+            {
+                "Time": 338,
+                "Temperature": 294.4206383590358
+            },
+            {
+                "Time": 339,
+                "Temperature": 292.81428272957555
+            },
+            {
+                "Time": 340,
+                "Temperature": 290.86204094169074
+            },
+            {
+                "Time": 341,
+                "Temperature": 288.50079511815693
+            },
+            {
+                "Time": 342,
+                "Temperature": 286.77655665904126
+            },
+            {
+                "Time": 343,
+                "Temperature": 284.27801868421295
+            },
+            {
+                "Time": 344,
+                "Temperature": 282.33541804956155
+            },
+            {
+                "Time": 345,
+                "Temperature": 280.5787244989452
+            },
+            {
+                "Time": 346,
+                "Temperature": 278.58524197734835
+            },
+            {
+                "Time": 347,
+                "Temperature": 277.1081181294418
+            },
+            {
+                "Time": 348,
+                "Temperature": 277.3563828464452
+            },
+            {
+                "Time": 349,
+                "Temperature": 275.05732980301053
+            },
+            {
+                "Time": 350,
+                "Temperature": 273.65467698832543
+            },
+            {
+                "Time": 351,
+                "Temperature": 272.79766597071153
+            },
+            {
+                "Time": 352,
+                "Temperature": 271.16893489330147
+            },
+            {
+                "Time": 353,
+                "Temperature": 270.2934968572626
+            },
+            {
+                "Time": 354,
+                "Temperature": 268.69496349172755
+            },
+            {
+                "Time": 355,
+                "Temperature": 268.47103270699756
+            },
+            {
+                "Time": 356,
+                "Temperature": 267.5558345203324
+            },
+            {
+                "Time": 357,
+                "Temperature": 265.98888607034763
+            },
+            {
+                "Time": 358,
+                "Temperature": 265.2913127035812
+            },
+            {
+                "Time": 359,
+                "Temperature": 264.594629603528
+            },
+            {
+                "Time": 360,
+                "Temperature": 264.01998513316016
+            },
+            {
+                "Time": 361,
+                "Temperature": 262.9095059600533
+            },
+            {
+                "Time": 362,
+                "Temperature": 262.3357591150298
+            },
+            {
+                "Time": 363,
+                "Temperature": 261.09935430536535
+            },
+            {
+                "Time": 364,
+                "Temperature": 260.6112807728261
+            },
+            {
+                "Time": 365,
+                "Temperature": 260.4094931475673
+            },
+            {
+                "Time": 366,
+                "Temperature": 259.82590664073257
+            },
+            {
+                "Time": 367,
+                "Temperature": 259.90325427860336
+            },
+            {
+                "Time": 368,
+                "Temperature": 259.37076908286264
+            },
+            {
+                "Time": 369,
+                "Temperature": 258.051058637511
+            },
+            {
+                "Time": 370,
+                "Temperature": 257.14934758315815
+            },
+            {
+                "Time": 371,
+                "Temperature": 257.1650709122307
+            },
+            {
+                "Time": 372,
+                "Temperature": 256.83302398583083
+            },
+            {
+                "Time": 373,
+                "Temperature": 254.70841607518
+            },
+            {
+                "Time": 374,
+                "Temperature": 255.3210314318452
+            },
+            {
+                "Time": 375,
+                "Temperature": 254.96138184627964
+            },
+            {
+                "Time": 376,
+                "Temperature": 253.6010239811038
+            },
+            {
+                "Time": 377,
+                "Temperature": 254.6442644463101
+            },
+            {
+                "Time": 378,
+                "Temperature": 254.2654315106772
+            },
+            {
+                "Time": 379,
+                "Temperature": 253.65978857150438
+            },
+            {
+                "Time": 380,
+                "Temperature": 253.07029977590258
+            },
+            {
+                "Time": 381,
+                "Temperature": 252.90819837530478
+            },
+            {
+                "Time": 382,
+                "Temperature": 253.53308043380966
+            },
+            {
+                "Time": 383,
+                "Temperature": 253.7825209778912
+            },
+            {
+                "Time": 384,
+                "Temperature": 253.58138566054535
+            },
+            {
+                "Time": 385,
+                "Temperature": 253.41443952312298
+            },
+            {
+                "Time": 386,
+                "Temperature": 253.62454142406864
+            },
+            {
+                "Time": 387,
+                "Temperature": 253.82252195161945
+            },
+            {
+                "Time": 388,
+                "Temperature": 254.26442785652682
+            },
+            {
+                "Time": 389,
+                "Temperature": 254.03778528910172
+            },
+            {
+                "Time": 390,
+                "Temperature": 254.22267803663206
+            },
+            {
+                "Time": 391,
+                "Temperature": 254.38720479946863
+            },
+            {
+                "Time": 392,
+                "Temperature": 254.1338288869978
+            },
+            {
+                "Time": 393,
+                "Temperature": 253.89686392641957
+            },
+            {
+                "Time": 394,
+                "Temperature": 253.25850874355106
+            },
+            {
+                "Time": 395,
+                "Temperature": 252.40723103993835
+            },
+            {
+                "Time": 396,
+                "Temperature": 252.08451578995343
+            },
+            {
+                "Time": 397,
+                "Temperature": 252.33589425320181
+            },
+            {
+                "Time": 398,
+                "Temperature": 252.14606325368786
+            },
+            {
+                "Time": 399,
+                "Temperature": 272.4092059783797
+            },
+            {
+                "Time": 400,
+                "Temperature": 283.56948367116706
+            },
+            {
+                "Time": 401,
+                "Temperature": 287.8410964192064
+            },
+            {
+                "Time": 402,
+                "Temperature": 303.7690305176997
+            },
+            {
+                "Time": 403,
+                "Temperature": 301.3743028915229
+            },
+            {
+                "Time": 404,
+                "Temperature": 299.3485509127986
+            },
+            {
+                "Time": 405,
+                "Temperature": 296.7010721858488
+            },
+            {
+                "Time": 406,
+                "Temperature": 294.99868497226646
+            },
+            {
+                "Time": 407,
+                "Temperature": 292.1081048782948
+            },
+            {
+                "Time": 408,
+                "Temperature": 290.05049186289256
+            },
+            {
+                "Time": 409,
+                "Temperature": 287.9662141177086
+            },
+            {
+                "Time": 410,
+                "Temperature": 286.62723111800966
+            },
+            {
+                "Time": 411,
+                "Temperature": 285.0284830621045
+            },
+            {
+                "Time": 412,
+                "Temperature": 283.00446361648943
+            },
+            {
+                "Time": 413,
+                "Temperature": 282.46204517302823
+            },
+            {
+                "Time": 414,
+                "Temperature": 281.9921193724679
+            },
+            {
+                "Time": 415,
+                "Temperature": 281.1684877847041
+            },
+            {
+                "Time": 416,
+                "Temperature": 279.8379263203845
+            },
+            {
+                "Time": 417,
+                "Temperature": 279.2137226604509
+            },
+            {
+                "Time": 418,
+                "Temperature": 277.897844159737
+            },
+            {
+                "Time": 419,
+                "Temperature": 276.4429433510976
+            },
+            {
+                "Time": 420,
+                "Temperature": 275.2780853846041
+            },
+            {
+                "Time": 421,
+                "Temperature": 275.1006441523643
+            },
+            {
+                "Time": 422,
+                "Temperature": 273.4248989691345
+            },
+            {
+                "Time": 423,
+                "Temperature": 271.891183734561
+            },
+            {
+                "Time": 424,
+                "Temperature": 271.7313625355106
+            },
+            {
+                "Time": 425,
+                "Temperature": 271.0852151239437
+            },
+            {
+                "Time": 426,
+                "Temperature": 269.8054114767529
+            },
+            {
+                "Time": 427,
+                "Temperature": 269.01403526314334
+            },
+            {
+                "Time": 428,
+                "Temperature": 278.68711768989414
+            },
+            {
+                "Time": 429,
+                "Temperature": 290.9942814091805
+            },
+            {
+                "Time": 430,
+                "Temperature": 300.49389151182663
+            },
+            {
+                "Time": 431,
+                "Temperature": 307.00167750372566
+            },
+            {
+                "Time": 432,
+                "Temperature": 313.4509534101256
+            },
+            {
+                "Time": 433,
+                "Temperature": 333.0856679044794
+            },
+            {
+                "Time": 434,
+                "Temperature": 327.8898588286661
+            },
+            {
+                "Time": 435,
+                "Temperature": 336.4594859080338
+            },
+            {
+                "Time": 436,
+                "Temperature": 339.6796190308564
+            },
+            {
+                "Time": 437,
+                "Temperature": 334.91008328745744
+            },
+            {
+                "Time": 438,
+                "Temperature": 331.3228574115368
+            },
+            {
+                "Time": 439,
+                "Temperature": 327.34500708077843
+            },
+            {
+                "Time": 440,
+                "Temperature": 323.08554422673024
+            },
+            {
+                "Time": 441,
+                "Temperature": 319.0869844894591
+            },
+            {
+                "Time": 442,
+                "Temperature": 318.807852360927
+            },
+            {
+                "Time": 443,
+                "Temperature": 329.8502187149276
+            },
+            {
+                "Time": 444,
+                "Temperature": 329.61984081670465
+            },
+            {
+                "Time": 445,
+                "Temperature": 328.56006888850106
+            },
+            {
+                "Time": 446,
+                "Temperature": 336.2330632149059
+            },
+            {
+                "Time": 447,
+                "Temperature": 337.3014563032469
+            },
+            {
+                "Time": 448,
+                "Temperature": 331.36258271610706
+            },
+            {
+                "Time": 449,
+                "Temperature": 326.9917966169207
+            },
+            {
+                "Time": 450,
+                "Temperature": 323.4953468592766
+            },
+            {
+                "Time": 451,
+                "Temperature": 319.42301564748016
+            },
+            {
+                "Time": 452,
+                "Temperature": 315.3673532851614
+            },
+            {
+                "Time": 453,
+                "Temperature": 311.4445325651921
+            },
+            {
+                "Time": 454,
+                "Temperature": 309.0436101629621
+            },
+            {
+                "Time": 455,
+                "Temperature": 305.59392320616263
+            },
+            {
+                "Time": 456,
+                "Temperature": 302.8202955468938
+            },
+            {
+                "Time": 457,
+                "Temperature": 300.3549833657577
+            },
+            {
+                "Time": 458,
+                "Temperature": 297.01662843049115
+            },
+            {
+                "Time": 459,
+                "Temperature": 294.80276054992606
+            },
+            {
+                "Time": 460,
+                "Temperature": 292.8171291770807
+            },
+            {
+                "Time": 461,
+                "Temperature": 291.49950841158136
+            },
+            {
+                "Time": 462,
+                "Temperature": 289.02970372235296
+            },
+            {
+                "Time": 463,
+                "Temperature": 286.53301412537223
+            },
+            {
+                "Time": 464,
+                "Temperature": 284.98719540086444
+            },
+            {
+                "Time": 465,
+                "Temperature": 283.83165791056774
+            },
+            {
+                "Time": 466,
+                "Temperature": 281.6691500372634
+            },
+            {
+                "Time": 467,
+                "Temperature": 280.7845529788031
+            },
+            {
+                "Time": 468,
+                "Temperature": 280.17683714718504
+            },
+            {
+                "Time": 469,
+                "Temperature": 278.28582783283156
+            },
+            {
+                "Time": 470,
+                "Temperature": 276.84037959297655
+            },
+            {
+                "Time": 471,
+                "Temperature": 275.7021584802585
+            },
+            {
+                "Time": 472,
+                "Temperature": 275.0835204189321
+            },
+            {
+                "Time": 473,
+                "Temperature": 272.5979485458161
+            },
+            {
+                "Time": 474,
+                "Temperature": 271.64266109481366
+            },
+            {
+                "Time": 475,
+                "Temperature": 270.60818292556047
+            },
+            {
+                "Time": 476,
+                "Temperature": 269.8176947182661
+            },
+            {
+                "Time": 477,
+                "Temperature": 268.4105107901647
+            },
+            {
+                "Time": 478,
+                "Temperature": 267.2504035567004
+            },
+            {
+                "Time": 479,
+                "Temperature": 267.0884255625525
+            },
+            {
+                "Time": 480,
+                "Temperature": 267.4148729173273
+            },
+            {
+                "Time": 481,
+                "Temperature": 266.5584599975686
+            },
+            {
+                "Time": 482,
+                "Temperature": 265.96925340884303
+            },
+            {
+                "Time": 483,
+                "Temperature": 265.0583005417005
+            },
+            {
+                "Time": 484,
+                "Temperature": 263.85676725402783
+            },
+            {
+                "Time": 485,
+                "Temperature": 263.31227156290504
+            },
+            {
+                "Time": 486,
+                "Temperature": 262.7097116718485
+            },
+            {
+                "Time": 487,
+                "Temperature": 261.7684176163027
+            },
+            {
+                "Time": 488,
+                "Temperature": 260.9015353488374
+            },
+            {
+                "Time": 489,
+                "Temperature": 260.1482516517622
+            },
+            {
+                "Time": 490,
+                "Temperature": 260.4512766420959
+            },
+            {
+                "Time": 491,
+                "Temperature": 258.78095860167116
+            },
+            {
+                "Time": 492,
+                "Temperature": 258.6922994750922
+            },
+            {
+                "Time": 493,
+                "Temperature": 258.0962189075306
+            },
+            {
+                "Time": 494,
+                "Temperature": 257.71724532933376
+            },
+            {
+                "Time": 495,
+                "Temperature": 257.06657551853596
+            },
+            {
+                "Time": 496,
+                "Temperature": 256.68157076851736
+            },
+            {
+                "Time": 497,
+                "Temperature": 256.18071690128505
+            },
+            {
+                "Time": 498,
+                "Temperature": 256.2760594574182
+            },
+            {
+                "Time": 499,
+                "Temperature": 255.58582539995805
+            },
+            {
+                "Time": 500,
+                "Temperature": 255.8121778458971
+            },
+            {
+                "Time": 501,
+                "Temperature": 255.61312396697454
+            },
+            {
+                "Time": 502,
+                "Temperature": 255.49784442475038
+            },
+            {
+                "Time": 503,
+                "Temperature": 254.9143492237586
+            },
+            {
+                "Time": 504,
+                "Temperature": 254.86746819177313
+            },
+            {
+                "Time": 505,
+                "Temperature": 254.1057836018467
+            },
+            {
+                "Time": 506,
+                "Temperature": 253.29717927602925
+            },
+            {
+                "Time": 507,
+                "Temperature": 253.06485106903764
+            },
+            {
+                "Time": 508,
+                "Temperature": 252.67423611160083
+            },
+            {
+                "Time": 509,
+                "Temperature": 251.89914158883906
+            },
+            {
+                "Time": 510,
+                "Temperature": 252.7068493241491
+            },
+            {
+                "Time": 511,
+                "Temperature": 252.2115824159111
+            },
+            {
+                "Time": 512,
+                "Temperature": 251.4870104564601
+            },
+            {
+                "Time": 513,
+                "Temperature": 251.52978335523326
+            },
+            {
+                "Time": 514,
+                "Temperature": 251.25700250797237
+            },
+            {
+                "Time": 515,
+                "Temperature": 251.1197952764297
+            },
+            {
+                "Time": 516,
+                "Temperature": 251.6111164429513
+            },
+            {
+                "Time": 517,
+                "Temperature": 251.34116600652192
+            },
+            {
+                "Time": 518,
+                "Temperature": 251.25356449672145
+            },
+            {
+                "Time": 519,
+                "Temperature": 251.39705589079492
+            },
+            {
+                "Time": 520,
+                "Temperature": 251.36655375532874
+            },
+            {
+                "Time": 521,
+                "Temperature": 250.9066605235803
+            },
+            {
+                "Time": 522,
+                "Temperature": 252.0858719911038
+            },
+            {
+                "Time": 523,
+                "Temperature": 250.7391177968308
+            },
+            {
+                "Time": 524,
+                "Temperature": 250.18327943142327
+            },
+            {
+                "Time": 525,
+                "Temperature": 249.95303473062918
+            },
+            {
+                "Time": 526,
+                "Temperature": 250.2195633767919
+            },
+            {
+                "Time": 527,
+                "Temperature": 249.5883093965651
+            },
+            {
+                "Time": 528,
+                "Temperature": 249.37118366383086
+            },
+            {
+                "Time": 529,
+                "Temperature": 249.57099272217843
+            },
+            {
+                "Time": 530,
+                "Temperature": 249.93278162904173
+            },
+            {
+                "Time": 531,
+                "Temperature": 249.82353513639882
+            },
+            {
+                "Time": 532,
+                "Temperature": 249.89957491895095
+            },
+            {
+                "Time": 533,
+                "Temperature": 249.57411272773567
+            },
+            {
+                "Time": 534,
+                "Temperature": 249.92127155004258
+            },
+            {
+                "Time": 535,
+                "Temperature": 249.781633654812
+            },
+            {
+                "Time": 536,
+                "Temperature": 248.9378094421555
+            },
+            {
+                "Time": 537,
+                "Temperature": 248.7381744111694
+            },
+            {
+                "Time": 538,
+                "Temperature": 248.3138859047839
+            },
+            {
+                "Time": 539,
+                "Temperature": 249.36485350007612
+            },
+            {
+                "Time": 540,
+                "Temperature": 248.5031843157354
+            },
+            {
+                "Time": 541,
+                "Temperature": 248.44322107763784
+            },
+            {
+                "Time": 542,
+                "Temperature": 249.14722413006402
+            },
+            {
+                "Time": 543,
+                "Temperature": 248.6610255379198
+            },
+            {
+                "Time": 544,
+                "Temperature": 249.20507078523232
+            },
+            {
+                "Time": 545,
+                "Temperature": 249.0167615599734
+            },
+            {
+                "Time": 546,
+                "Temperature": 249.2495344322711
+            },
+            {
+                "Time": 547,
+                "Temperature": 249.91332804237257
+            },
+            {
+                "Time": 548,
+                "Temperature": 249.93073964151466
+            },
+            {
+                "Time": 549,
+                "Temperature": 249.99294580136947
+            },
+            {
+                "Time": 550,
+                "Temperature": 249.6626437965248
+            },
+            {
+                "Time": 551,
+                "Temperature": 249.305409219402
+            },
+            {
+                "Time": 552,
+                "Temperature": 249.97831020547906
+            },
+            {
+                "Time": 553,
+                "Temperature": 250.1150688210839
+            },
+            {
+                "Time": 554,
+                "Temperature": 250.22228426829858
+            },
+            {
+                "Time": 555,
+                "Temperature": 251.08022778870895
+            },
+            {
+                "Time": 556,
+                "Temperature": 250.10637111115636
+            },
+            {
+                "Time": 557,
+                "Temperature": 251.10715694155817
+            },
+            {
+                "Time": 558,
+                "Temperature": 250.2656133312759
+            },
+            {
+                "Time": 559,
+                "Temperature": 269.98693236247465
+            },
+            {
+                "Time": 560,
+                "Temperature": 280.16586581333905
+            },
+            {
+                "Time": 561,
+                "Temperature": 292.3575326842891
+            },
+            {
+                "Time": 562,
+                "Temperature": 289.205511498562
+            },
+            {
+                "Time": 563,
+                "Temperature": 287.00326139704475
+            },
+            {
+                "Time": 564,
+                "Temperature": 283.541890435669
+            },
+            {
+                "Time": 565,
+                "Temperature": 281.61418586088683
+            },
+            {
+                "Time": 566,
+                "Temperature": 291.53220111281587
+            },
+            {
+                "Time": 567,
+                "Temperature": 309.6075133619267
+            },
+            {
+                "Time": 568,
+                "Temperature": 314.8916621038958
+            },
+            {
+                "Time": 569,
+                "Temperature": 323.22065344590544
+            },
+            {
+                "Time": 570,
+                "Temperature": 326.74905403150035
+            },
+            {
+                "Time": 571,
+                "Temperature": 333.1415944833502
+            },
+            {
+                "Time": 572,
+                "Temperature": 336.9827478948165
+            },
+            {
+                "Time": 573,
+                "Temperature": 341.2010092540046
+            },
+            {
+                "Time": 574,
+                "Temperature": 339.32205111581055
+            },
+            {
+                "Time": 575,
+                "Temperature": 336.78104726809823
+            },
+            {
+                "Time": 576,
+                "Temperature": 340.8935303972937
+            },
+            {
+                "Time": 577,
+                "Temperature": 345.24017433480384
+            },
+            {
+                "Time": 578,
+                "Temperature": 343.1996208010228
+            },
+            {
+                "Time": 579,
+                "Temperature": 344.6910180741717
+            },
+            {
+                "Time": 580,
+                "Temperature": 350.7861058561053
+            },
+            {
+                "Time": 581,
+                "Temperature": 349.75613095540285
+            },
+            {
+                "Time": 582,
+                "Temperature": 344.8570128208991
+            },
+            {
+                "Time": 583,
+                "Temperature": 348.1652822571474
+            },
+            {
+                "Time": 584,
+                "Temperature": 345.7523184661783
+            },
+            {
+                "Time": 585,
+                "Temperature": 345.422493407941
+            },
+            {
+                "Time": 586,
+                "Temperature": 342.70237112050796
+            },
+            {
+                "Time": 587,
+                "Temperature": 348.68925851913247
+            },
+            {
+                "Time": 588,
+                "Temperature": 342.7637583614128
+            },
+            {
+                "Time": 589,
+                "Temperature": 337.4809959837594
+            },
+            {
+                "Time": 590,
+                "Temperature": 332.0211375470962
+            },
+            {
+                "Time": 591,
+                "Temperature": 328.61380538535406
+            },
+            {
+                "Time": 592,
+                "Temperature": 332.1084688411924
+            },
+            {
+                "Time": 593,
+                "Temperature": 334.01332175155665
+            },
+            {
+                "Time": 594,
+                "Temperature": 341.04221812574644
+            },
+            {
+                "Time": 595,
+                "Temperature": 342.915019777629
+            },
+            {
+                "Time": 596,
+                "Temperature": 341.67376393245115
+            },
+            {
+                "Time": 597,
+                "Temperature": 346.35383330317103
+            },
+            {
+                "Time": 598,
+                "Temperature": 340.4957808355757
+            },
+            {
+                "Time": 599,
+                "Temperature": 340.19070326410025
+            },
+            {
+                "Time": 600,
+                "Temperature": 346.7779613792427
+            },
+            {
+                "Time": 601,
+                "Temperature": 356.7814095936035
+            },
+            {
+                "Time": 602,
+                "Temperature": 360.43996507351596
+            },
+            {
+                "Time": 603,
+                "Temperature": 360.1876581540819
+            },
+            {
+                "Time": 604,
+                "Temperature": 358.2438893687552
+            },
+            {
+                "Time": 605,
+                "Temperature": 355.0302050678726
+            },
+            {
+                "Time": 606,
+                "Temperature": 353.2927470116666
+            },
+            {
+                "Time": 607,
+                "Temperature": 353.9017872938104
+            },
+            {
+                "Time": 608,
+                "Temperature": 347.18603267554107
+            },
+            {
+                "Time": 609,
+                "Temperature": 353.6045634026882
+            },
+            {
+                "Time": 610,
+                "Temperature": 356.8666561800992
+            },
+            {
+                "Time": 611,
+                "Temperature": 356.4572620180994
+            },
+            {
+                "Time": 612,
+                "Temperature": 358.37196573915844
+            },
+            {
+                "Time": 613,
+                "Temperature": 357.72687151855916
+            },
+            {
+                "Time": 614,
+                "Temperature": 345.40471451615366
+            },
+            {
+                "Time": 615,
+                "Temperature": 346.3876384169875
+            },
+            {
+                "Time": 616,
+                "Temperature": 348.21334248097264
+            },
+            {
+                "Time": 617,
+                "Temperature": 349.4086260225686
+            },
+            {
+                "Time": 618,
+                "Temperature": 344.7258639334349
+            },
+            {
+                "Time": 619,
+                "Temperature": 351.74565378494674
+            },
+            {
+                "Time": 620,
+                "Temperature": 341.7383617254323
+            },
+            {
+                "Time": 621,
+                "Temperature": 343.5815038787889
+            },
+            {
+                "Time": 622,
+                "Temperature": 344.6853085903039
+            },
+            {
+                "Time": 623,
+                "Temperature": 336.20667101919014
+            },
+            {
+                "Time": 624,
+                "Temperature": 342.86117026858784
+            },
+            {
+                "Time": 625,
+                "Temperature": 354.4822122331557
+            },
+            {
+                "Time": 626,
+                "Temperature": 348.31038147722813
+            },
+            {
+                "Time": 627,
+                "Temperature": 357.6407500213285
+            },
+            {
+                "Time": 628,
+                "Temperature": 350.4865347811461
+            },
+            {
+                "Time": 629,
+                "Temperature": 350.5491494424581
+            },
+            {
+                "Time": 630,
+                "Temperature": 354.4553220602854
+            },
+            {
+                "Time": 631,
+                "Temperature": 360.36046384795634
+            },
+            {
+                "Time": 632,
+                "Temperature": 352.38379061066615
+            },
+            {
+                "Time": 633,
+                "Temperature": 358.7741297026731
+            },
+            {
+                "Time": 634,
+                "Temperature": 353.5560657184838
+            },
+            {
+                "Time": 635,
+                "Temperature": 356.952554903377
+            },
+            {
+                "Time": 636,
+                "Temperature": 356.6864144671297
+            },
+            {
+                "Time": 637,
+                "Temperature": 350.93551828383835
+            },
+            {
+                "Time": 638,
+                "Temperature": 345.16369964551365
+            },
+            {
+                "Time": 639,
+                "Temperature": 340.95836512840077
+            },
+            {
+                "Time": 640,
+                "Temperature": 336.47572706703795
+            },
+            {
+                "Time": 641,
+                "Temperature": 332.4931717318943
+            },
+            {
+                "Time": 642,
+                "Temperature": 327.8168471922096
+            },
+            {
+                "Time": 643,
+                "Temperature": 328.64081135376074
+            },
+            {
+                "Time": 644,
+                "Temperature": 335.96661754303614
+            },
+            {
+                "Time": 645,
+                "Temperature": 337.0811134289632
+            },
+            {
+                "Time": 646,
+                "Temperature": 335.41078117208804
+            },
+            {
+                "Time": 647,
+                "Temperature": 337.2041111912223
+            },
+            {
+                "Time": 648,
+                "Temperature": 345.2786657575715
+            },
+            {
+                "Time": 649,
+                "Temperature": 346.73122656524686
+            },
+            {
+                "Time": 650,
+                "Temperature": 341.46758768064456
+            },
+            {
+                "Time": 651,
+                "Temperature": 337.2274672877349
+            },
+            {
+                "Time": 652,
+                "Temperature": 332.93813917371585
+            },
+            {
+                "Time": 653,
+                "Temperature": 328.73388453866386
+            },
+            {
+                "Time": 654,
+                "Temperature": 324.14751257401537
+            },
+            {
+                "Time": 655,
+                "Temperature": 319.96398802759524
+            },
+            {
+                "Time": 656,
+                "Temperature": 316.120935906802
+            },
+            {
+                "Time": 657,
+                "Temperature": 312.3513861656419
+            },
+            {
+                "Time": 658,
+                "Temperature": 309.6818054578677
+            },
+            {
+                "Time": 659,
+                "Temperature": 306.36420338577454
+            },
+            {
+                "Time": 660,
+                "Temperature": 304.7439630712292
+            },
+            {
+                "Time": 661,
+                "Temperature": 303.0409339228284
+            },
+            {
+                "Time": 662,
+                "Temperature": 299.92027020415173
+            },
+            {
+                "Time": 663,
+                "Temperature": 297.6078553257959
+            },
+            {
+                "Time": 664,
+                "Temperature": 295.834620137713
+            },
+            {
+                "Time": 665,
+                "Temperature": 293.89309427891914
+            },
+            {
+                "Time": 666,
+                "Temperature": 291.451766763688
+            },
+            {
+                "Time": 667,
+                "Temperature": 289.6032328085757
+            },
+            {
+                "Time": 668,
+                "Temperature": 288.3430799935036
+            },
+            {
+                "Time": 669,
+                "Temperature": 286.1027664745564
+            },
+            {
+                "Time": 670,
+                "Temperature": 285.0571508419329
+            },
+            {
+                "Time": 671,
+                "Temperature": 282.39224052443814
+            },
+            {
+                "Time": 672,
+                "Temperature": 280.97223527513756
+            },
+            {
+                "Time": 673,
+                "Temperature": 279.7708106451967
+            },
+            {
+                "Time": 674,
+                "Temperature": 278.17346936304676
+            },
+            {
+                "Time": 675,
+                "Temperature": 302.65873848829284
+            },
+            {
+                "Time": 676,
+                "Temperature": 307.79635867121243
+            },
+            {
+                "Time": 677,
+                "Temperature": 299.2946478124914
+            },
+            {
+                "Time": 678,
+                "Temperature": 311.7236243415533
+            },
+            {
+                "Time": 679,
+                "Temperature": 314.56587416302364
+            },
+            {
+                "Time": 680,
+                "Temperature": 327.2031112373225
+            },
+            {
+                "Time": 681,
+                "Temperature": 332.9510544176592
+            },
+            {
+                "Time": 682,
+                "Temperature": 339.8430292639336
+            },
+            {
+                "Time": 683,
+                "Temperature": 338.9767290620273
+            },
+            {
+                "Time": 684,
+                "Temperature": 345.0284807769136
+            },
+            {
+                "Time": 685,
+                "Temperature": 340.6362085413767
+            },
+            {
+                "Time": 686,
+                "Temperature": 335.67272426833824
+            },
+            {
+                "Time": 687,
+                "Temperature": 331.03353122331964
+            },
+            {
+                "Time": 688,
+                "Temperature": 326.4426047393709
+            },
+            {
+                "Time": 689,
+                "Temperature": 322.42566986025423
+            },
+            {
+                "Time": 690,
+                "Temperature": 317.51662015792056
+            },
+            {
+                "Time": 691,
+                "Temperature": 314.0489126921925
+            },
+            {
+                "Time": 692,
+                "Temperature": 310.73599078018543
+            },
+            {
+                "Time": 693,
+                "Temperature": 307.59564674082225
+            },
+            {
+                "Time": 694,
+                "Temperature": 305.60690784634505
+            },
+            {
+                "Time": 695,
+                "Temperature": 303.47769822093875
+            },
+            {
+                "Time": 696,
+                "Temperature": 299.7514100890558
+            },
+            {
+                "Time": 697,
+                "Temperature": 297.0729365122721
+            },
+            {
+                "Time": 698,
+                "Temperature": 295.08821436127425
+            },
+            {
+                "Time": 699,
+                "Temperature": 292.4567904077853
+            },
+            {
+                "Time": 700,
+                "Temperature": 289.07376321934936
+            },
+            {
+                "Time": 701,
+                "Temperature": 287.31734240472724
+            },
+            {
+                "Time": 702,
+                "Temperature": 286.19741366695325
+            },
+            {
+                "Time": 703,
+                "Temperature": 285.0342525368051
+            },
+            {
+                "Time": 704,
+                "Temperature": 283.6857028335654
+            },
+            {
+                "Time": 705,
+                "Temperature": 282.12829200830276
+            },
+            {
+                "Time": 706,
+                "Temperature": 280.58989084474774
+            },
+            {
+                "Time": 707,
+                "Temperature": 278.5099423714489
+            },
+            {
+                "Time": 708,
+                "Temperature": 277.75165163910356
+            },
+            {
+                "Time": 709,
+                "Temperature": 276.06114910870076
+            },
+            {
+                "Time": 710,
+                "Temperature": 274.739692316858
+            },
+            {
+                "Time": 711,
+                "Temperature": 273.95223445966036
+            },
+            {
+                "Time": 712,
+                "Temperature": 272.1423701284505
+            },
+            {
+                "Time": 713,
+                "Temperature": 271.6577600950779
+            },
+            {
+                "Time": 714,
+                "Temperature": 270.5744638712321
+            },
+            {
+                "Time": 715,
+                "Temperature": 270.5536079595652
+            },
+            {
+                "Time": 716,
+                "Temperature": 268.9404254087413
+            },
+            {
+                "Time": 717,
+                "Temperature": 267.62333176747904
+            },
+            {
+                "Time": 718,
+                "Temperature": 267.03475681670176
+            },
+            {
+                "Time": 719,
+                "Temperature": 265.58682258311404
+            },
+            {
+                "Time": 720,
+                "Temperature": 264.7511049785649
+            },
+            {
+                "Time": 721,
+                "Temperature": 264.47383101348703
+            },
+            {
+                "Time": 722,
+                "Temperature": 263.1284459568707
+            },
+            {
+                "Time": 723,
+                "Temperature": 262.0287134076205
+            },
+            {
+                "Time": 724,
+                "Temperature": 261.84702870219206
+            },
+            {
+                "Time": 725,
+                "Temperature": 260.8585478477938
+            },
+            {
+                "Time": 726,
+                "Temperature": 259.51363691288043
+            },
+            {
+                "Time": 727,
+                "Temperature": 258.845416100122
+            },
+            {
+                "Time": 728,
+                "Temperature": 258.2770340219799
+            },
+            {
+                "Time": 729,
+                "Temperature": 258.26577500460843
+            },
+            {
+                "Time": 730,
+                "Temperature": 258.7802144935527
+            },
+            {
+                "Time": 731,
+                "Temperature": 257.97448683486937
+            },
+            {
+                "Time": 732,
+                "Temperature": 257.2415092756671
+            },
+            {
+                "Time": 733,
+                "Temperature": 257.38964902178407
+            },
+            {
+                "Time": 734,
+                "Temperature": 257.77061081327906
+            },
+            {
+                "Time": 735,
+                "Temperature": 256.8428195661816
+            },
+            {
+                "Time": 736,
+                "Temperature": 256.8767787559866
+            },
+            {
+                "Time": 737,
+                "Temperature": 256.96626245929053
+            },
+            {
+                "Time": 738,
+                "Temperature": 256.66045364237664
+            },
+            {
+                "Time": 739,
+                "Temperature": 255.7227123432657
+            },
+            {
+                "Time": 740,
+                "Temperature": 255.52925409398716
+            },
+            {
+                "Time": 741,
+                "Temperature": 255.4414926817038
+            },
+            {
+                "Time": 742,
+                "Temperature": 255.14029406588304
+            },
+            {
+                "Time": 743,
+                "Temperature": 254.71777636106935
+            },
+            {
+                "Time": 744,
+                "Temperature": 254.1872721989183
+            },
+            {
+                "Time": 745,
+                "Temperature": 254.4175951720934
+            },
+            {
+                "Time": 746,
+                "Temperature": 254.27466073876448
+            },
+            {
+                "Time": 747,
+                "Temperature": 254.41963748810048
+            },
+            {
+                "Time": 748,
+                "Temperature": 253.40555951762653
+            },
+            {
+                "Time": 749,
+                "Temperature": 253.32969892703426
+            },
+            {
+                "Time": 750,
+                "Temperature": 252.4324375147476
+            },
+            {
+                "Time": 751,
+                "Temperature": 251.1093188401222
+            },
+            {
+                "Time": 752,
+                "Temperature": 251.21716507432376
+            },
+            {
+                "Time": 753,
+                "Temperature": 251.05951482864268
+            },
+            {
+                "Time": 754,
+                "Temperature": 250.35401533155252
+            },
+            {
+                "Time": 755,
+                "Temperature": 251.24383534997614
+            },
+            {
+                "Time": 756,
+                "Temperature": 250.88204326710684
+            },
+            {
+                "Time": 757,
+                "Temperature": 251.67213803346672
+            },
+            {
+                "Time": 758,
+                "Temperature": 251.8644853879203
+            },
+            {
+                "Time": 759,
+                "Temperature": 251.59768094430532
+            },
+            {
+                "Time": 760,
+                "Temperature": 251.81953825312596
+            },
+            {
+                "Time": 761,
+                "Temperature": 250.97322307279873
+            },
+            {
+                "Time": 762,
+                "Temperature": 251.78929788440928
+            },
+            {
+                "Time": 763,
+                "Temperature": 252.10231376266367
+            },
+            {
+                "Time": 764,
+                "Temperature": 251.69708811048906
+            },
+            {
+                "Time": 765,
+                "Temperature": 251.18130479716734
+            },
+            {
+                "Time": 766,
+                "Temperature": 250.8751512423644
+            },
+            {
+                "Time": 767,
+                "Temperature": 251.29239944120704
+            },
+            {
+                "Time": 768,
+                "Temperature": 251.2331804130494
+            },
+            {
+                "Time": 769,
+                "Temperature": 250.20936637158258
+            },
+            {
+                "Time": 770,
+                "Temperature": 249.74462911487666
+            },
+            {
+                "Time": 771,
+                "Temperature": 250.4838115649819
+            },
+            {
+                "Time": 772,
+                "Temperature": 250.79287633915405
+            },
+            {
+                "Time": 773,
+                "Temperature": 250.4273813638353
+            },
+            {
+                "Time": 774,
+                "Temperature": 250.32812371041177
+            },
+            {
+                "Time": 775,
+                "Temperature": 250.24847398029118
+            },
+            {
+                "Time": 776,
+                "Temperature": 250.40486314506398
+            },
+            {
+                "Time": 777,
+                "Temperature": 251.00790156577344
+            },
+            {
+                "Time": 778,
+                "Temperature": 251.72161040261838
+            },
+            {
+                "Time": 779,
+                "Temperature": 252.00676429950792
+            },
+            {
+                "Time": 780,
+                "Temperature": 251.91759807924606
+            },
+            {
+                "Time": 781,
+                "Temperature": 252.37665960237027
+            },
+            {
+                "Time": 782,
+                "Temperature": 251.85569366588797
+            },
+            {
+                "Time": 783,
+                "Temperature": 251.61443955684823
+            },
+            {
+                "Time": 784,
+                "Temperature": 251.6393016403005
+            },
+            {
+                "Time": 785,
+                "Temperature": 251.26417656632304
+            },
+            {
+                "Time": 786,
+                "Temperature": 251.73233345582412
+            },
+            {
+                "Time": 787,
+                "Temperature": 251.97849778710437
+            },
+            {
+                "Time": 788,
+                "Temperature": 251.39751071484642
+            },
+            {
+                "Time": 789,
+                "Temperature": 250.6582984151045
+            },
+            {
+                "Time": 790,
+                "Temperature": 250.78270242065025
+            },
+            {
+                "Time": 791,
+                "Temperature": 251.429173844773
+            },
+            {
+                "Time": 792,
+                "Temperature": 250.7459832692647
+            },
+            {
+                "Time": 793,
+                "Temperature": 250.51381466256439
+            },
+            {
+                "Time": 794,
+                "Temperature": 250.2871667394302
+            },
+            {
+                "Time": 795,
+                "Temperature": 250.5237343643096
+            },
+            {
+                "Time": 796,
+                "Temperature": 250.0306944772057
+            },
+            {
+                "Time": 797,
+                "Temperature": 250.26449617811966
+            },
+            {
+                "Time": 798,
+                "Temperature": 249.87021909041292
+            },
+            {
+                "Time": 799,
+                "Temperature": 249.66047021440548
+            },
+            {
+                "Time": 800,
+                "Temperature": 249.76162076410154
+            },
+            {
+                "Time": 801,
+                "Temperature": 249.90580443218187
+            },
+            {
+                "Time": 802,
+                "Temperature": 249.09985217933615
+            },
+            {
+                "Time": 803,
+                "Temperature": 249.73208167565622
+            },
+            {
+                "Time": 804,
+                "Temperature": 249.57599751479
+            },
+            {
+                "Time": 805,
+                "Temperature": 249.77914949357645
+            },
+            {
+                "Time": 806,
+                "Temperature": 249.82333937402146
+            },
+            {
+                "Time": 807,
+                "Temperature": 249.93426695277884
+            },
+            {
+                "Time": 808,
+                "Temperature": 249.5068390420973
+            },
+            {
+                "Time": 809,
+                "Temperature": 249.5676332298749
+            },
+            {
+                "Time": 810,
+                "Temperature": 249.12844520054895
+            },
+            {
+                "Time": 811,
+                "Temperature": 249.18472691420908
+            },
+            {
+                "Time": 812,
+                "Temperature": 249.6552426280362
+            },
+            {
+                "Time": 813,
+                "Temperature": 250.25455193996493
+            },
+            {
+                "Time": 814,
+                "Temperature": 250.44145332854714
+            },
+            {
+                "Time": 815,
+                "Temperature": 250.40965109208528
+            },
+            {
+                "Time": 816,
+                "Temperature": 250.7871844581855
+            },
+            {
+                "Time": 817,
+                "Temperature": 251.6666994100538
+            },
+            {
+                "Time": 818,
+                "Temperature": 251.3798395721293
+            },
+            {
+                "Time": 819,
+                "Temperature": 250.42421376066966
+            },
+            {
+                "Time": 820,
+                "Temperature": 250.88395419528186
+            },
+            {
+                "Time": 821,
+                "Temperature": 250.25092892164582
+            },
+            {
+                "Time": 822,
+                "Temperature": 249.88565195902694
+            },
+            {
+                "Time": 823,
+                "Temperature": 249.83679864984668
+            },
+            {
+                "Time": 824,
+                "Temperature": 250.13685338983157
+            },
+            {
+                "Time": 825,
+                "Temperature": 250.5946425827355
+            },
+            {
+                "Time": 826,
+                "Temperature": 249.86077095790426
+            },
+            {
+                "Time": 827,
+                "Temperature": 249.9537447030133
+            },
+            {
+                "Time": 828,
+                "Temperature": 250.27867195492433
+            },
+            {
+                "Time": 829,
+                "Temperature": 249.85942956631368
+            },
+            {
+                "Time": 830,
+                "Temperature": 250.95301884110495
+            },
+            {
+                "Time": 831,
+                "Temperature": 250.5541086373773
+            },
+            {
+                "Time": 832,
+                "Temperature": 250.66159204817785
+            },
+            {
+                "Time": 833,
+                "Temperature": 249.98605116884542
+            },
+            {
+                "Time": 834,
+                "Temperature": 248.92061961446183
+            },
+            {
+                "Time": 835,
+                "Temperature": 249.0913594448653
+            },
+            {
+                "Time": 836,
+                "Temperature": 249.5141394618632
+            },
+            {
+                "Time": 837,
+                "Temperature": 249.28923871388136
+            },
+            {
+                "Time": 838,
+                "Temperature": 249.5415750410185
+            },
+            {
+                "Time": 839,
+                "Temperature": 250.2434497881869
+            },
+            {
+                "Time": 840,
+                "Temperature": 251.25177762521548
+            },
+            {
+                "Time": 841,
+                "Temperature": 251.52025046818892
+            },
+            {
+                "Time": 842,
+                "Temperature": 252.34121663983737
+            },
+            {
+                "Time": 843,
+                "Temperature": 252.13993331287926
+            },
+            {
+                "Time": 844,
+                "Temperature": 252.8839909624577
+            },
+            {
+                "Time": 845,
+                "Temperature": 253.4874959031
+            },
+            {
+                "Time": 846,
+                "Temperature": 253.15286086694366
+            },
+            {
+                "Time": 847,
+                "Temperature": 252.8606495344114
+            },
+            {
+                "Time": 848,
+                "Temperature": 253.43256880474564
+            },
+            {
+                "Time": 849,
+                "Temperature": 253.75148166605442
+            },
+            {
+                "Time": 850,
+                "Temperature": 252.80956049113001
+            },
+            {
+                "Time": 851,
+                "Temperature": 252.55825876053368
+            },
+            {
+                "Time": 852,
+                "Temperature": 252.32355051556578
+            },
+            {
+                "Time": 853,
+                "Temperature": 252.81511358546905
+            },
+            {
+                "Time": 854,
+                "Temperature": 252.58216097499388
+            },
+            {
+                "Time": 855,
+                "Temperature": 252.37042990119386
+            },
+            {
+                "Time": 856,
+                "Temperature": 252.7626430239978
+            },
+            {
+                "Time": 857,
+                "Temperature": 252.85620460384
+            },
+            {
+                "Time": 858,
+                "Temperature": 252.82458423882875
+            },
+            {
+                "Time": 859,
+                "Temperature": 252.5839998932571
+            },
+            {
+                "Time": 860,
+                "Temperature": 253.1457324803092
+            },
+            {
+                "Time": 861,
+                "Temperature": 252.8772313612251
+            },
+            {
+                "Time": 862,
+                "Temperature": 252.8338415324668
+            },
+            {
+                "Time": 863,
+                "Temperature": 252.23576470337295
+            },
+            {
+                "Time": 864,
+                "Temperature": 251.6651345061999
+            },
+            {
+                "Time": 865,
+                "Temperature": 251.80820192731883
+            },
+            {
+                "Time": 866,
+                "Temperature": 251.50115954593906
+            },
+            {
+                "Time": 867,
+                "Temperature": 250.8451661761058
+            },
+            {
+                "Time": 868,
+                "Temperature": 251.40789015834682
+            },
+            {
+                "Time": 869,
+                "Temperature": 250.56500025558833
+            },
+            {
+                "Time": 870,
+                "Temperature": 250.3891259452996
+            },
+            {
+                "Time": 871,
+                "Temperature": 250.73004188098838
+            },
+            {
+                "Time": 872,
+                "Temperature": 251.48985721381806
+            },
+            {
+                "Time": 873,
+                "Temperature": 251.6985964251817
+            },
+            {
+                "Time": 874,
+                "Temperature": 250.7210457626064
+            },
+            {
+                "Time": 875,
+                "Temperature": 250.64375312073793
+            },
+            {
+                "Time": 876,
+                "Temperature": 250.0916833233399
+            },
+            {
+                "Time": 877,
+                "Temperature": 250.11476362895772
+            },
+            {
+                "Time": 878,
+                "Temperature": 250.067616677547
+            },
+            {
+                "Time": 879,
+                "Temperature": 250.25230413751402
+            },
+            {
+                "Time": 880,
+                "Temperature": 250.1102438800858
+            },
+            {
+                "Time": 881,
+                "Temperature": 250.5511184620722
+            },
+            {
+                "Time": 882,
+                "Temperature": 250.35896119260948
+            },
+            {
+                "Time": 883,
+                "Temperature": 250.20675621107475
+            },
+            {
+                "Time": 884,
+                "Temperature": 249.45789235188025
+            },
+            {
+                "Time": 885,
+                "Temperature": 250.00571609786567
+            },
+            {
+                "Time": 886,
+                "Temperature": 250.49230133521192
+            },
+            {
+                "Time": 887,
+                "Temperature": 250.66402971297404
+            },
+            {
+                "Time": 888,
+                "Temperature": 251.3620311931717
+            },
+            {
+                "Time": 889,
+                "Temperature": 251.60971506750133
+            },
+            {
+                "Time": 890,
+                "Temperature": 251.30361578070384
+            },
+            {
+                "Time": 891,
+                "Temperature": 250.73650250642447
+            },
+            {
+                "Time": 892,
+                "Temperature": 250.50727368339165
+            },
+            {
+                "Time": 893,
+                "Temperature": 250.23799034591647
+            },
+            {
+                "Time": 894,
+                "Temperature": 250.09453029358778
+            },
+            {
+                "Time": 895,
+                "Temperature": 251.08512031752116
+            },
+            {
+                "Time": 896,
+                "Temperature": 250.7094979309787
+            },
+            {
+                "Time": 897,
+                "Temperature": 250.16793143738624
+            },
+            {
+                "Time": 898,
+                "Temperature": 250.2876169324926
+            },
+            {
+                "Time": 899,
+                "Temperature": 250.0647523041566
+            },
+            {
+                "Time": 900,
+                "Temperature": 250.6272425407004
+            },
+            {
+                "Time": 901,
+                "Temperature": 250.8780587229818
+            },
+            {
+                "Time": 902,
+                "Temperature": 250.30330428905253
+            },
+            {
+                "Time": 903,
+                "Temperature": 249.75518324510278
+            },
+            {
+                "Time": 904,
+                "Temperature": 250.23897867288815
+            },
+            {
+                "Time": 905,
+                "Temperature": 249.3507443211017
+            },
+            {
+                "Time": 906,
+                "Temperature": 249.7405360900492
+            },
+            {
+                "Time": 907,
+                "Temperature": 250.2187797926282
+            },
+            {
+                "Time": 908,
+                "Temperature": 249.53389157520814
+            },
+            {
+                "Time": 909,
+                "Temperature": 250.2117641257926
+            },
+            {
+                "Time": 910,
+                "Temperature": 250.22926111676713
+            },
+            {
+                "Time": 911,
+                "Temperature": 249.9242450674524
+            },
+            {
+                "Time": 912,
+                "Temperature": 249.02529192126303
+            },
+            {
+                "Time": 913,
+                "Temperature": 249.63288453422948
+            },
+            {
+                "Time": 914,
+                "Temperature": 249.9438140699137
+            },
+            {
+                "Time": 915,
+                "Temperature": 250.36133457292985
+            },
+            {
+                "Time": 916,
+                "Temperature": 250.45429161296178
+            },
+            {
+                "Time": 917,
+                "Temperature": 250.78938682939145
+            },
+            {
+                "Time": 918,
+                "Temperature": 250.98200881367114
+            },
+            {
+                "Time": 919,
+                "Temperature": 250.2662773276066
+            },
+            {
+                "Time": 920,
+                "Temperature": 250.3920637857777
+            },
+            {
+                "Time": 921,
+                "Temperature": 249.72158116063176
+            },
+            {
+                "Time": 922,
+                "Temperature": 249.05111433616776
+            },
+            {
+                "Time": 923,
+                "Temperature": 249.52537312699477
+            },
+            {
+                "Time": 924,
+                "Temperature": 249.19763971744044
+            },
+            {
+                "Time": 925,
+                "Temperature": 248.91928145302924
+            },
+            {
+                "Time": 926,
+                "Temperature": 248.63120085863915
+            },
+            {
+                "Time": 927,
+                "Temperature": 249.4120948473043
+            },
+            {
+                "Time": 928,
+                "Temperature": 250.53077890012048
+            },
+            {
+                "Time": 929,
+                "Temperature": 251.9451673773696
+            },
+            {
+                "Time": 930,
+                "Temperature": 251.65980106277647
+            },
+            {
+                "Time": 931,
+                "Temperature": 251.5883217960233
+            },
+            {
+                "Time": 932,
+                "Temperature": 251.06464380548766
+            },
+            {
+                "Time": 933,
+                "Temperature": 251.88626808090706
+            },
+            {
+                "Time": 934,
+                "Temperature": 251.55447752555924
+            },
+            {
+                "Time": 935,
+                "Temperature": 251.58882034143048
+            },
+            {
+                "Time": 936,
+                "Temperature": 251.5249239194788
+            },
+            {
+                "Time": 937,
+                "Temperature": 251.6475345995068
+            },
+            {
+                "Time": 938,
+                "Temperature": 251.92978859159993
+            },
+            {
+                "Time": 939,
+                "Temperature": 252.3194052456255
+            },
+            {
+                "Time": 940,
+                "Temperature": 252.5021103117664
+            },
+            {
+                "Time": 941,
+                "Temperature": 253.262984781664
+            },
+            {
+                "Time": 942,
+                "Temperature": 253.467473526984
+            },
+            {
+                "Time": 943,
+                "Temperature": 253.6784791935454
+            },
+            {
+                "Time": 944,
+                "Temperature": 252.97753448416276
+            },
+            {
+                "Time": 945,
+                "Temperature": 253.06083246777078
+            },
+            {
+                "Time": 946,
+                "Temperature": 253.51809362577885
+            },
+            {
+                "Time": 947,
+                "Temperature": 252.76752820103476
+            },
+            {
+                "Time": 948,
+                "Temperature": 252.41705088911908
+            },
+            {
+                "Time": 949,
+                "Temperature": 252.1557166956717
+            },
+            {
+                "Time": 950,
+                "Temperature": 252.22216840454632
+            },
+            {
+                "Time": 951,
+                "Temperature": 252.8545002680806
+            },
+            {
+                "Time": 952,
+                "Temperature": 252.34546663861428
+            },
+            {
+                "Time": 953,
+                "Temperature": 252.35356622185472
+            },
+            {
+                "Time": 954,
+                "Temperature": 252.22632489120898
+            },
+            {
+                "Time": 955,
+                "Temperature": 252.01919014839598
+            },
+            {
+                "Time": 956,
+                "Temperature": 251.57554733901867
+            },
+            {
+                "Time": 957,
+                "Temperature": 251.21555480436103
+            },
+            {
+                "Time": 958,
+                "Temperature": 251.09970184592618
+            },
+            {
+                "Time": 959,
+                "Temperature": 251.69913175941699
+            },
+            {
+                "Time": 960,
+                "Temperature": 251.15675312929963
+            },
+            {
+                "Time": 961,
+                "Temperature": 251.95207168813536
+            },
+            {
+                "Time": 962,
+                "Temperature": 252.08670027537636
+            },
+            {
+                "Time": 963,
+                "Temperature": 251.7146113727296
+            },
+            {
+                "Time": 964,
+                "Temperature": 251.3844834779002
+            },
+            {
+                "Time": 965,
+                "Temperature": 251.28557536053071
+            },
+            {
+                "Time": 966,
+                "Temperature": 251.94881419017906
+            },
+            {
+                "Time": 967,
+                "Temperature": 251.5480823423498
+            },
+            {
+                "Time": 968,
+                "Temperature": 251.5166575744583
+            },
+            {
+                "Time": 969,
+                "Temperature": 251.0549751019386
+            },
+            {
+                "Time": 970,
+                "Temperature": 251.86327892107585
+            },
+            {
+                "Time": 971,
+                "Temperature": 252.726765068126
+            },
+            {
+                "Time": 972,
+                "Temperature": 253.03788000777598
+            },
+            {
+                "Time": 973,
+                "Temperature": 252.9833232300766
+            },
+            {
+                "Time": 974,
+                "Temperature": 252.55006001193195
+            },
+            {
+                "Time": 975,
+                "Temperature": 253.02133859847558
+            },
+            {
+                "Time": 976,
+                "Temperature": 253.25987786599964
+            },
+            {
+                "Time": 977,
+                "Temperature": 252.76832622790835
+            },
+            {
+                "Time": 978,
+                "Temperature": 252.5876698998732
+            },
+            {
+                "Time": 979,
+                "Temperature": 252.96205094698618
+            },
+            {
+                "Time": 980,
+                "Temperature": 252.86683312585802
+            },
+            {
+                "Time": 981,
+                "Temperature": 252.31733915067232
+            },
+            {
+                "Time": 982,
+                "Temperature": 252.11245116942646
+            },
+            {
+                "Time": 983,
+                "Temperature": 251.83460034651335
+            },
+            {
+                "Time": 984,
+                "Temperature": 252.32125843383994
+            },
+            {
+                "Time": 985,
+                "Temperature": 253.35293154045362
+            },
+            {
+                "Time": 986,
+                "Temperature": 269.57630749347675
+            },
+            {
+                "Time": 987,
+                "Temperature": 284.6015310212104
+            },
+            {
+                "Time": 988,
+                "Temperature": 282.94173725224283
+            },
+            {
+                "Time": 989,
+                "Temperature": 280.5888520593912
+            },
+            {
+                "Time": 990,
+                "Temperature": 279.26175949684637
+            },
+            {
+                "Time": 991,
+                "Temperature": 277.5923205612692
+            },
+            {
+                "Time": 992,
+                "Temperature": 275.75034746916555
+            },
+            {
+                "Time": 993,
+                "Temperature": 274.30152495888655
+            },
+            {
+                "Time": 994,
+                "Temperature": 272.014661174765
+            },
+            {
+                "Time": 995,
+                "Temperature": 271.72845129351686
+            },
+            {
+                "Time": 996,
+                "Temperature": 270.4216565864291
+            },
+            {
+                "Time": 997,
+                "Temperature": 269.164593603419
+            },
+            {
+                "Time": 998,
+                "Temperature": 284.57267306470516
+            },
+            {
+                "Time": 999,
+                "Temperature": 291.8346638345883
+            }
+        ],
+        "analysis_report": {
+            "knn5_mean": -3.507826600835115,
+            "knn5_std": 1.017484547726277,
+            "local_dim5_mean": 1.556,
+            "local_dim5_std": 0.4968541033341679,
+            "knn10_mean": -3.1105760008255303,
+            "knn10_std": 1.0422345078322115,
+            "local_dim10_mean": 1.723,
+            "local_dim10_std": 0.4475164801434691,
+            "knn20_mean": -2.6724828005210775,
+            "knn20_std": 1.047242077009701,
+            "local_dim20_mean": 1.766,
+            "local_dim20_std": 0.423372176695635,
+            "global_dim90": 2,
+            "ev1": 0.6888596047831419,
+            "ev2": 0.3111403952168582,
+            "ev3": 0.0,
+            "tda_betti0": 0.0,
+            "tda_betti1": 0.0,
+            "tda_life_mean": 0.0,
+            "tda_life_max": 0.0,
+            "hurst": 0.9981253837777596,
+            "fractal_dim": 1.0,
+            "mf_width": 1.7763568394002505e-15,
+            "mf_singularity": 2.010657190759645,
+            "mf_asymmetry": 1.0,
+            "fisher": 0.0372975705854813,
+            "rqa_rr": 0.0998008040128353,
+            "rqa_det": 0.010029979276070904,
+            "var": 0.9999999999999998,
+            "entropy": 11.478645343986027
+        }
+    }
+}

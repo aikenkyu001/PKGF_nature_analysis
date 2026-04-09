@@ -1,0 +1,4047 @@
+{
+    "metadata": {
+        "source": "xylem_raw.csv",
+        "total_samples": 1000,
+        "headers": [
+            "Time",
+            "AE_Intensity"
+        ]
+    },
+    "structure": {
+        "primitive_id": 200,
+        "data_quanta": [
+            {
+                "Time": 0,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 1,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 2,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 3,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 4,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 5,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 6,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 7,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 8,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 9,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 10,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 11,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 12,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 13,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 14,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 15,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 16,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 17,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 18,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 19,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 20,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 21,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 22,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 23,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 24,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 25,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 26,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 27,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 28,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 29,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 30,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 31,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 32,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 33,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 34,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 35,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 36,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 37,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 38,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 39,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 40,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 41,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 42,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 43,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 44,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 45,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 46,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 47,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 48,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 49,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 50,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 51,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 52,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 53,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 54,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 55,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 56,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 57,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 58,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 59,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 60,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 61,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 62,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 63,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 64,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 65,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 66,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 67,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 68,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 69,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 70,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 71,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 72,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 73,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 74,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 75,
+                "AE_Intensity": 11.511537192935739
+            },
+            {
+                "Time": 76,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 77,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 78,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 79,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 80,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 81,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 82,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 83,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 84,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 85,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 86,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 87,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 88,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 89,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 90,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 91,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 92,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 93,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 94,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 95,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 96,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 97,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 98,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 99,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 100,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 101,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 102,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 103,
+                "AE_Intensity": 13.617426071511309
+            },
+            {
+                "Time": 104,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 105,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 106,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 107,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 108,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 109,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 110,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 111,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 112,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 113,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 114,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 115,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 116,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 117,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 118,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 119,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 120,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 121,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 122,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 123,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 124,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 125,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 126,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 127,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 128,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 129,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 130,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 131,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 132,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 133,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 134,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 135,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 136,
+                "AE_Intensity": 13.789935456128003
+            },
+            {
+                "Time": 137,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 138,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 139,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 140,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 141,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 142,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 143,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 144,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 145,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 146,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 147,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 148,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 149,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 150,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 151,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 152,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 153,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 154,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 155,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 156,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 157,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 158,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 159,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 160,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 161,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 162,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 163,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 164,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 165,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 166,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 167,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 168,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 169,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 170,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 171,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 172,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 173,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 174,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 175,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 176,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 177,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 178,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 179,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 180,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 181,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 182,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 183,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 184,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 185,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 186,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 187,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 188,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 189,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 190,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 191,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 192,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 193,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 194,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 195,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 196,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 197,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 198,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 199,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 200,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 201,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 202,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 203,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 204,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 205,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 206,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 207,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 208,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 209,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 210,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 211,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 212,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 213,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 214,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 215,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 216,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 217,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 218,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 219,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 220,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 221,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 222,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 223,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 224,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 225,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 226,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 227,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 228,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 229,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 230,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 231,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 232,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 233,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 234,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 235,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 236,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 237,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 238,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 239,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 240,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 241,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 242,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 243,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 244,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 245,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 246,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 247,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 248,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 249,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 250,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 251,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 252,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 253,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 254,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 255,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 256,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 257,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 258,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 259,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 260,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 261,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 262,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 263,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 264,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 265,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 266,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 267,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 268,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 269,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 270,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 271,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 272,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 273,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 274,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 275,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 276,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 277,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 278,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 279,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 280,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 281,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 282,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 283,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 284,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 285,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 286,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 287,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 288,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 289,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 290,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 291,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 292,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 293,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 294,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 295,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 296,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 297,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 298,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 299,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 300,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 301,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 302,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 303,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 304,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 305,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 306,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 307,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 308,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 309,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 310,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 311,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 312,
+                "AE_Intensity": 10.439278136162638
+            },
+            {
+                "Time": 313,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 314,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 315,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 316,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 317,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 318,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 319,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 320,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 321,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 322,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 323,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 324,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 325,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 326,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 327,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 328,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 329,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 330,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 331,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 332,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 333,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 334,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 335,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 336,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 337,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 338,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 339,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 340,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 341,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 342,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 343,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 344,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 345,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 346,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 347,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 348,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 349,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 350,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 351,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 352,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 353,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 354,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 355,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 356,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 357,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 358,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 359,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 360,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 361,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 362,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 363,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 364,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 365,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 366,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 367,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 368,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 369,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 370,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 371,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 372,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 373,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 374,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 375,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 376,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 377,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 378,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 379,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 380,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 381,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 382,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 383,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 384,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 385,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 386,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 387,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 388,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 389,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 390,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 391,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 392,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 393,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 394,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 395,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 396,
+                "AE_Intensity": 25.530446853234338
+            },
+            {
+                "Time": 397,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 398,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 399,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 400,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 401,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 402,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 403,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 404,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 405,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 406,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 407,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 408,
+                "AE_Intensity": 16.294859152481962
+            },
+            {
+                "Time": 409,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 410,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 411,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 412,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 413,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 414,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 415,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 416,
+                "AE_Intensity": 14.663847526145213
+            },
+            {
+                "Time": 417,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 418,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 419,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 420,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 421,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 422,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 423,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 424,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 425,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 426,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 427,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 428,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 429,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 430,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 431,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 432,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 433,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 434,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 435,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 436,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 437,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 438,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 439,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 440,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 441,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 442,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 443,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 444,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 445,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 446,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 447,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 448,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 449,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 450,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 451,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 452,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 453,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 454,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 455,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 456,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 457,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 458,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 459,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 460,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 461,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 462,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 463,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 464,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 465,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 466,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 467,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 468,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 469,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 470,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 471,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 472,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 473,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 474,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 475,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 476,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 477,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 478,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 479,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 480,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 481,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 482,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 483,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 484,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 485,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 486,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 487,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 488,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 489,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 490,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 491,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 492,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 493,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 494,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 495,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 496,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 497,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 498,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 499,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 500,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 501,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 502,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 503,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 504,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 505,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 506,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 507,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 508,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 509,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 510,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 511,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 512,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 513,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 514,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 515,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 516,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 517,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 518,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 519,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 520,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 521,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 522,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 523,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 524,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 525,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 526,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 527,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 528,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 529,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 530,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 531,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 532,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 533,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 534,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 535,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 536,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 537,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 538,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 539,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 540,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 541,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 542,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 543,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 544,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 545,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 546,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 547,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 548,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 549,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 550,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 551,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 552,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 553,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 554,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 555,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 556,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 557,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 558,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 559,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 560,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 561,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 562,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 563,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 564,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 565,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 566,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 567,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 568,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 569,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 570,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 571,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 572,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 573,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 574,
+                "AE_Intensity": 31.265820801858588
+            },
+            {
+                "Time": 575,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 576,
+                "AE_Intensity": 38.33518389010096
+            },
+            {
+                "Time": 577,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 578,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 579,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 580,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 581,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 582,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 583,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 584,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 585,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 586,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 587,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 588,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 589,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 590,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 591,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 592,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 593,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 594,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 595,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 596,
+                "AE_Intensity": 26.452298863933205
+            },
+            {
+                "Time": 597,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 598,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 599,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 600,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 601,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 602,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 603,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 604,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 605,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 606,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 607,
+                "AE_Intensity": 39.61471831716595
+            },
+            {
+                "Time": 608,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 609,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 610,
+                "AE_Intensity": 39.40956907976586
+            },
+            {
+                "Time": 611,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 612,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 613,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 614,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 615,
+                "AE_Intensity": 37.81751720342923
+            },
+            {
+                "Time": 616,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 617,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 618,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 619,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 620,
+                "AE_Intensity": 37.10923954438255
+            },
+            {
+                "Time": 621,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 622,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 623,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 624,
+                "AE_Intensity": 37.3618247324642
+            },
+            {
+                "Time": 625,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 626,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 627,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 628,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 629,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 630,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 631,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 632,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 633,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 634,
+                "AE_Intensity": 36.688591055082355
+            },
+            {
+                "Time": 635,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 636,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 637,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 638,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 639,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 640,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 641,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 642,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 643,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 644,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 645,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 646,
+                "AE_Intensity": 10.794376731035621
+            },
+            {
+                "Time": 647,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 648,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 649,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 650,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 651,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 652,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 653,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 654,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 655,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 656,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 657,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 658,
+                "AE_Intensity": 14.166233324938288
+            },
+            {
+                "Time": 659,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 660,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 661,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 662,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 663,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 664,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 665,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 666,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 667,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 668,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 669,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 670,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 671,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 672,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 673,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 674,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 675,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 676,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 677,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 678,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 679,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 680,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 681,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 682,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 683,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 684,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 685,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 686,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 687,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 688,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 689,
+                "AE_Intensity": 41.566531779493715
+            },
+            {
+                "Time": 690,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 691,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 692,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 693,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 694,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 695,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 696,
+                "AE_Intensity": 21.31007522631155
+            },
+            {
+                "Time": 697,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 698,
+                "AE_Intensity": 35.5470093432717
+            },
+            {
+                "Time": 699,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 700,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 701,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 702,
+                "AE_Intensity": 42.687437912175476
+            },
+            {
+                "Time": 703,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 704,
+                "AE_Intensity": 39.22275221305159
+            },
+            {
+                "Time": 705,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 706,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 707,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 708,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 709,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 710,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 711,
+                "AE_Intensity": 15.109150011817047
+            },
+            {
+                "Time": 712,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 713,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 714,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 715,
+                "AE_Intensity": 15.455696103927739
+            },
+            {
+                "Time": 716,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 717,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 718,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 719,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 720,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 721,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 722,
+                "AE_Intensity": 37.954741503363586
+            },
+            {
+                "Time": 723,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 724,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 725,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 726,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 727,
+                "AE_Intensity": 33.37883538440414
+            },
+            {
+                "Time": 728,
+                "AE_Intensity": 39.125156852838764
+            },
+            {
+                "Time": 729,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 730,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 731,
+                "AE_Intensity": 44.54896386263351
+            },
+            {
+                "Time": 732,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 733,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 734,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 735,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 736,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 737,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 738,
+                "AE_Intensity": 17.80173898557312
+            },
+            {
+                "Time": 739,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 740,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 741,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 742,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 743,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 744,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 745,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 746,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 747,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 748,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 749,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 750,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 751,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 752,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 753,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 754,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 755,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 756,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 757,
+                "AE_Intensity": 13.725371516095878
+            },
+            {
+                "Time": 758,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 759,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 760,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 761,
+                "AE_Intensity": 37.19019824470291
+            },
+            {
+                "Time": 762,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 763,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 764,
+                "AE_Intensity": 22.857617756261675
+            },
+            {
+                "Time": 765,
+                "AE_Intensity": 25.681367960076006
+            },
+            {
+                "Time": 766,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 767,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 768,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 769,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 770,
+                "AE_Intensity": 32.847010892398316
+            },
+            {
+                "Time": 771,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 772,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 773,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 774,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 775,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 776,
+                "AE_Intensity": 30.28738897058782
+            },
+            {
+                "Time": 777,
+                "AE_Intensity": 14.665575678924906
+            },
+            {
+                "Time": 778,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 779,
+                "AE_Intensity": 20.752548033293365
+            },
+            {
+                "Time": 780,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 781,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 782,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 783,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 784,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 785,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 786,
+                "AE_Intensity": 24.214827006641993
+            },
+            {
+                "Time": 787,
+                "AE_Intensity": 48.95702002496922
+            },
+            {
+                "Time": 788,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 789,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 790,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 791,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 792,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 793,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 794,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 795,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 796,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 797,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 798,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 799,
+                "AE_Intensity": 35.6114837177967
+            },
+            {
+                "Time": 800,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 801,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 802,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 803,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 804,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 805,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 806,
+                "AE_Intensity": 23.69406569374525
+            },
+            {
+                "Time": 807,
+                "AE_Intensity": 11.650398148974393
+            },
+            {
+                "Time": 808,
+                "AE_Intensity": 12.012744108382496
+            },
+            {
+                "Time": 809,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 810,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 811,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 812,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 813,
+                "AE_Intensity": 38.96192212850675
+            },
+            {
+                "Time": 814,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 815,
+                "AE_Intensity": 14.19166614302252
+            },
+            {
+                "Time": 816,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 817,
+                "AE_Intensity": 21.528686406472236
+            },
+            {
+                "Time": 818,
+                "AE_Intensity": 40.29003386627858
+            },
+            {
+                "Time": 819,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 820,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 821,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 822,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 823,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 824,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 825,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 826,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 827,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 828,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 829,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 830,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 831,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 832,
+                "AE_Intensity": 16.95170705748359
+            },
+            {
+                "Time": 833,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 834,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 835,
+                "AE_Intensity": 25.175423839387168
+            },
+            {
+                "Time": 836,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 837,
+                "AE_Intensity": 35.1858737571967
+            },
+            {
+                "Time": 838,
+                "AE_Intensity": 33.29727390288567
+            },
+            {
+                "Time": 839,
+                "AE_Intensity": 51.7399094141328
+            },
+            {
+                "Time": 840,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 841,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 842,
+                "AE_Intensity": 38.18118971364855
+            },
+            {
+                "Time": 843,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 844,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 845,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 846,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 847,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 848,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 849,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 850,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 851,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 852,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 853,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 854,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 855,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 856,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 857,
+                "AE_Intensity": 32.72485270653934
+            },
+            {
+                "Time": 858,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 859,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 860,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 861,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 862,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 863,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 864,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 865,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 866,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 867,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 868,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 869,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 870,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 871,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 872,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 873,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 874,
+                "AE_Intensity": 50.559579491488364
+            },
+            {
+                "Time": 875,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 876,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 877,
+                "AE_Intensity": 18.620160040454746
+            },
+            {
+                "Time": 878,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 879,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 880,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 881,
+                "AE_Intensity": 31.36243009706923
+            },
+            {
+                "Time": 882,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 883,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 884,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 885,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 886,
+                "AE_Intensity": 29.607161271350414
+            },
+            {
+                "Time": 887,
+                "AE_Intensity": 26.34558587219601
+            },
+            {
+                "Time": 888,
+                "AE_Intensity": 33.68944283180044
+            },
+            {
+                "Time": 889,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 890,
+                "AE_Intensity": 21.84015913436354
+            },
+            {
+                "Time": 891,
+                "AE_Intensity": 52.80884948351268
+            },
+            {
+                "Time": 892,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 893,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 894,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 895,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 896,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 897,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 898,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 899,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 900,
+                "AE_Intensity": 54.582978953973466
+            },
+            {
+                "Time": 901,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 902,
+                "AE_Intensity": 30.509246165468745
+            },
+            {
+                "Time": 903,
+                "AE_Intensity": 27.459161507388476
+            },
+            {
+                "Time": 904,
+                "AE_Intensity": 46.72501092174494
+            },
+            {
+                "Time": 905,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 906,
+                "AE_Intensity": 27.715014943827196
+            },
+            {
+                "Time": 907,
+                "AE_Intensity": 38.77036955371538
+            },
+            {
+                "Time": 908,
+                "AE_Intensity": 44.297847110075
+            },
+            {
+                "Time": 909,
+                "AE_Intensity": 52.851848780952174
+            },
+            {
+                "Time": 910,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 911,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 912,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 913,
+                "AE_Intensity": 12.55734158691309
+            },
+            {
+                "Time": 914,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 915,
+                "AE_Intensity": 22.796029416428606
+            },
+            {
+                "Time": 916,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 917,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 918,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 919,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 920,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 921,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 922,
+                "AE_Intensity": 29.73052943131975
+            },
+            {
+                "Time": 923,
+                "AE_Intensity": 39.924516402282244
+            },
+            {
+                "Time": 924,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 925,
+                "AE_Intensity": 28.24635463045932
+            },
+            {
+                "Time": 926,
+                "AE_Intensity": 46.19242017048839
+            },
+            {
+                "Time": 927,
+                "AE_Intensity": 50.256117053715386
+            },
+            {
+                "Time": 928,
+                "AE_Intensity": 49.24550179514816
+            },
+            {
+                "Time": 929,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 930,
+                "AE_Intensity": 21.26629625697136
+            },
+            {
+                "Time": 931,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 932,
+                "AE_Intensity": 43.19658807155818
+            },
+            {
+                "Time": 933,
+                "AE_Intensity": 35.710951338191215
+            },
+            {
+                "Time": 934,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 935,
+                "AE_Intensity": 10.870844239616996
+            },
+            {
+                "Time": 936,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 937,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 938,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 939,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 940,
+                "AE_Intensity": 50.73380909361777
+            },
+            {
+                "Time": 941,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 942,
+                "AE_Intensity": 35.27992156860762
+            },
+            {
+                "Time": 943,
+                "AE_Intensity": 19.76281658117714
+            },
+            {
+                "Time": 944,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 945,
+                "AE_Intensity": 46.289922595972826
+            },
+            {
+                "Time": 946,
+                "AE_Intensity": 46.377615477295855
+            },
+            {
+                "Time": 947,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 948,
+                "AE_Intensity": 49.74540864317127
+            },
+            {
+                "Time": 949,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 950,
+                "AE_Intensity": 10.363913237244669
+            },
+            {
+                "Time": 951,
+                "AE_Intensity": 43.14392014210071
+            },
+            {
+                "Time": 952,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 953,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 954,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 955,
+                "AE_Intensity": 25.296817117327784
+            },
+            {
+                "Time": 956,
+                "AE_Intensity": 10.667203104911447
+            },
+            {
+                "Time": 957,
+                "AE_Intensity": 28.640501610157564
+            },
+            {
+                "Time": 958,
+                "AE_Intensity": 57.78779257213543
+            },
+            {
+                "Time": 959,
+                "AE_Intensity": 57.86621475948998
+            },
+            {
+                "Time": 960,
+                "AE_Intensity": 10.198730460771404
+            },
+            {
+                "Time": 961,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 962,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 963,
+                "AE_Intensity": 25.461241776584462
+            },
+            {
+                "Time": 964,
+                "AE_Intensity": 24.623473266201195
+            },
+            {
+                "Time": 965,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 966,
+                "AE_Intensity": 44.963238333083396
+            },
+            {
+                "Time": 967,
+                "AE_Intensity": 30.470857636495545
+            },
+            {
+                "Time": 968,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 969,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 970,
+                "AE_Intensity": 54.33757455737782
+            },
+            {
+                "Time": 971,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 972,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 973,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 974,
+                "AE_Intensity": 13.689366982516379
+            },
+            {
+                "Time": 975,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 976,
+                "AE_Intensity": 52.982002084542046
+            },
+            {
+                "Time": 977,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 978,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 979,
+                "AE_Intensity": 26.958134380912938
+            },
+            {
+                "Time": 980,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 981,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 982,
+                "AE_Intensity": 15.360148101224341
+            },
+            {
+                "Time": 983,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 984,
+                "AE_Intensity": 54.30727717564437
+            },
+            {
+                "Time": 985,
+                "AE_Intensity": 37.14586089325219
+            },
+            {
+                "Time": 986,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 987,
+                "AE_Intensity": 57.432699237845995
+            },
+            {
+                "Time": 988,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 989,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 990,
+                "AE_Intensity": 44.29814252720421
+            },
+            {
+                "Time": 991,
+                "AE_Intensity": 23.756339883243427
+            },
+            {
+                "Time": 992,
+                "AE_Intensity": 54.28534819733967
+            },
+            {
+                "Time": 993,
+                "AE_Intensity": 52.103072309695285
+            },
+            {
+                "Time": 994,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 995,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 996,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 997,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 998,
+                "AE_Intensity": 0.0
+            },
+            {
+                "Time": 999,
+                "AE_Intensity": 26.42325178613194
+            }
+        ],
+        "analysis_report": {
+            "knn5_mean": -4.704860555576769,
+            "knn5_std": 1.2053309945830177,
+            "local_dim5_mean": 1.089,
+            "local_dim5_std": 0.28474374444401757,
+            "knn10_mean": -4.241467651116151,
+            "knn10_std": 1.2244877933751404,
+            "local_dim10_mean": 1.113,
+            "local_dim10_std": 0.3165927984019852,
+            "knn20_mean": -3.6995110560396256,
+            "knn20_std": 1.233583212572938,
+            "local_dim20_mean": 1.112,
+            "local_dim20_std": 0.31536645351083237,
+            "global_dim90": 2,
+            "ev1": 0.6928456043318678,
+            "ev2": 0.30715439566813213,
+            "ev3": 0.0,
+            "tda_betti0": 0.0,
+            "tda_betti1": 0.0,
+            "tda_life_mean": 0.0,
+            "tda_life_max": 0.0,
+            "hurst": 0.9981253837777596,
+            "fractal_dim": 1.0,
+            "mf_width": 1.7763568394002505e-15,
+            "mf_singularity": 2.010657190759645,
+            "mf_asymmetry": 1.0,
+            "fisher": 0.0372975705854813,
+            "rqa_rr": 0.0998008040128353,
+            "rqa_det": 0.010029979276070904,
+            "var": 0.9999999999999998,
+            "entropy": 11.478645343986027
+        }
+    }
+}
