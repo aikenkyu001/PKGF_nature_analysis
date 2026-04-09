@@ -123,8 +123,9 @@ PKGF is built upon 7 Axioms and 5 Theorems, as detailed in `Docs/Unified_PKGF_Th
 
 ## Citation
 
-If you use this framework or datasets in your research, please refer to the included papers:
-- *PKGF: A Unified Geometric Framework for Deterministic and Non-deterministic Information Memory* (Fumio Miyata, 2026)
+If you use this framework or datasets in your research, please refer to the following:
+- **DOI**: [10.5281/zenodo.19477743](https://doi.org/10.5281/zenodo.19477743)
+- **Paper**: *PKGF: A Unified Geometric Framework for Deterministic and Non-deterministic Information Memory* (Fumio Miyata, 2026)
 
 ## License
 

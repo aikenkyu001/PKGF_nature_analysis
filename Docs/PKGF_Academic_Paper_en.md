@@ -3,6 +3,7 @@
 
 **Author:** Fumio Miyata  
 **Date:** April 8, 2026  
+**DOI:** [10.5281/zenodo.19477743](https://doi.org/10.5281/zenodo.19477743)  
 **Repository:** [https://github.com/aikenkyu001/PKGF_nature_analysis](https://github.com/aikenkyu001/PKGF_nature_analysis)  
 *(All data, source code, and analysis resources used in this study are publicly available in the above repository.)*
 

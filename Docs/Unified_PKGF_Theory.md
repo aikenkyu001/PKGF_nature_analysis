@@ -1,6 +1,7 @@
 # **PKGF 統合理論文書（Unified PKGF Theory）**  
 **Parallel Key Geometric Flow — Unified Information & Geometry Framework**  
 **Author: Fumio Miyata**  
+**DOI: [10.5281/zenodo.19477743](https://doi.org/10.5281/zenodo.19477743)**  
 **Repository:** [https://github.com/aikenkyu001/PKGF_nature_analysis](https://github.com/aikenkyu001/PKGF_nature_analysis)  
 
 ---
